@@ -1,0 +1,5634 @@
+{
+  "A Ashish Reddy": {
+    "Strike Rate": 88.0681818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.7443181818,
+    "Sixes/10b": 85.2272727273,
+    "Dot Ball %": 4.8295454545,
+    "Boundary %": 67.8977272727
+  },
+  "A Badoni": {
+    "Strike Rate": 75.4261363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.375,
+    "Sixes/10b": 70.4545454545,
+    "Dot Ball %": 12.2159090909,
+    "Boundary %": 62.6420454545
+  },
+  "A Chandila": {
+    "Strike Rate": 13.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 44.3181818182,
+    "Boundary %": 8.59375
+  },
+  "A Chopra": {
+    "Strike Rate": 20.3125,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.6164772727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 33.3806818182
+  },
+  "A Choudhary": {
+    "Strike Rate": 69.6732954545,
+    "Average": 50.0710227273,
+    "Fours/10b": 27.0596590909,
+    "Sixes/10b": 68.9630681818,
+    "Dot Ball %": 1.9176136364,
+    "Boundary %": 35.0142045455
+  },
+  "A Dananjaya": {
+    "Strike Rate": 25.4971590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 34.0909090909,
+    "Boundary %": 8.59375
+  },
+  "A Flintoff": {
+    "Strike Rate": 49.7159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.3607954545,
+    "Sixes/10b": 53.4090909091,
+    "Dot Ball %": 41.6193181818,
+    "Boundary %": 46.5909090909
+  },
+  "A Kamboj": {
+    "Strike Rate": 47.5852272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.4573863636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 58.0255681818,
+    "Boundary %": 52.7698863636
+  },
+  "A Kumble": {
+    "Strike Rate": 20.6676136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.6704545455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 64.0625,
+    "Boundary %": 23.4375
+  },
+  "A Manohar": {
+    "Strike Rate": 64.9147727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.8181818182,
+    "Sixes/10b": 75.8522727273,
+    "Dot Ball %": 37.0738636364,
+    "Boundary %": 64.0625
+  },
+  "A Mhatre": {
+    "Strike Rate": 98.5795454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 98.1534090909,
+    "Sixes/10b": 88.6363636364,
+    "Dot Ball %": 9.5170454545,
+    "Boundary %": 98.4375
+  },
+  "A Mishra": {
+    "Strike Rate": 29.2613636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.9318181818,
+    "Sixes/10b": 35.2272727273,
+    "Dot Ball %": 52.9829545455,
+    "Boundary %": 29.6875
+  },
+  "A Mithun": {
+    "Strike Rate": 76.1363636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.3352272727,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 42.4715909091,
+    "Boundary %": 85.5113636364
+  },
+  "A Mukund": {
+    "Strike Rate": 26.7755681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.8522727273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 30.1136363636,
+    "Boundary %": 20.3125
+  },
+  "A Nehra": {
+    "Strike Rate": 16.9034090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 26.5625,
+    "Sixes/10b": 38.6363636364,
+    "Dot Ball %": 83.8068181818,
+    "Boundary %": 24.0056818182
+  },
+  "A Nortje": {
+    "Strike Rate": 35.2272727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.5085227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 64.3465909091,
+    "Boundary %": 43.8210227273
+  },
+  "A Raghuvanshi": {
+    "Strike Rate": 87.3579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 86.3636363636,
+    "Sixes/10b": 67.8977272727,
+    "Dot Ball %": 3.9772727273,
+    "Boundary %": 83.8068181818
+  },
+  "A Singh": {
+    "Strike Rate": 4.1903409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 95.5965909091,
+    "Boundary %": 8.59375
+  },
+  "A Symonds": {
+    "Strike Rate": 68.75,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.9602272727,
+    "Sixes/10b": 71.4488636364,
+    "Dot Ball %": 31.25,
+    "Boundary %": 61.0795454545
+  },
+  "A Tomar": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.7642045455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 96.3068181818,
+    "Boundary %": 47.65625
+  },
+  "A Uniyal": {
+    "Strike Rate": 13.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 44.3181818182,
+    "Boundary %": 8.59375
+  },
+  "A Zampa": {
+    "Strike Rate": 15.0568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 75.4971590909,
+    "Boundary %": 19.6732954545
+  },
+  "AA Bilakhia": {
+    "Strike Rate": 25.0,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.1136363636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 63.7784090909,
+    "Boundary %": 22.1590909091
+  },
+  "AA Chavan": {
+    "Strike Rate": 50.0,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.9573863636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 78.8352272727
+  },
+  "AA Jhunjhunwala": {
+    "Strike Rate": 38.2102272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.7215909091,
+    "Sixes/10b": 43.3238636364,
+    "Dot Ball %": 52.2727272727,
+    "Boundary %": 39.3465909091
+  },
+  "AA Kulkarni": {
+    "Strike Rate": 54.1193181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 98.5795454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.6420454545,
+    "Boundary %": 94.8863636364
+  },
+  "AA Noffke": {
+    "Strike Rate": 22.9403409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 30.2556818182
+  },
+  "AB Agarkar": {
+    "Strike Rate": 52.9829545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.6022727273,
+    "Sixes/10b": 50.3551136364,
+    "Dot Ball %": 20.8806818182,
+    "Boundary %": 41.3352272727
+  },
+  "AB Barath": {
+    "Strike Rate": 36.2215909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.0113636364,
+    "Sixes/10b": 43.6789772727,
+    "Dot Ball %": 74.7159090909,
+    "Boundary %": 56.5340909091
+  },
+  "AB Dinda": {
+    "Strike Rate": 11.9318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.0028409091,
+    "Boundary %": 19.6732954545
+  },
+  "AB McDonald": {
+    "Strike Rate": 63.0681818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.0056818182,
+    "Sixes/10b": 58.2386363636,
+    "Dot Ball %": 18.6079545455,
+    "Boundary %": 48.7215909091
+  },
+  "AB de Villiers": {
+    "Strike Rate": 91.0511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.0056818182,
+    "Sixes/10b": 83.6647727273,
+    "Dot Ball %": 5.3977272727,
+    "Boundary %": 84.6590909091
+  },
+  "AC Blizzard": {
+    "Strike Rate": 76.9886363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.8693181818,
+    "Sixes/10b": 42.6136363636,
+    "Dot Ball %": 76.4204545455,
+    "Boundary %": 95.4545454545
+  },
+  "AC Gilchrist": {
+    "Strike Rate": 78.9772727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.9090909091,
+    "Sixes/10b": 77.1306818182,
+    "Dot Ball %": 60.6534090909,
+    "Boundary %": 91.0511363636
+  },
+  "AC Thomas": {
+    "Strike Rate": 45.8096590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.0539772727,
+    "Sixes/10b": 71.8039772727,
+    "Dot Ball %": 41.6193181818,
+    "Boundary %": 37.3579545455
+  },
+  "AC Voges": {
+    "Strike Rate": 71.4488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.7784090909,
+    "Sixes/10b": 41.9034090909,
+    "Dot Ball %": 4.5454545455,
+    "Boundary %": 48.5795454545
+  },
+  "AD Hales": {
+    "Strike Rate": 68.4659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.9744318182,
+    "Sixes/10b": 69.8863636364,
+    "Dot Ball %": 35.5113636364,
+    "Boundary %": 68.75
+  },
+  "AD Mascarenhas": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.8068181818,
+    "Sixes/10b": 36.6477272727,
+    "Dot Ball %": 17.8977272727,
+    "Boundary %": 27.2727272727
+  },
+  "AD Mathews": {
+    "Strike Rate": 65.7670454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.0681818182,
+    "Sixes/10b": 66.7613636364,
+    "Dot Ball %": 9.9431818182,
+    "Boundary %": 46.0227272727
+  },
+  "AD Nath": {
+    "Strike Rate": 31.3920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.2159090909,
+    "Sixes/10b": 41.3352272727,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 32.2443181818
+  },
+  "AD Russell": {
+    "Strike Rate": 96.3068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.0170454545,
+    "Sixes/10b": 98.2954545455,
+    "Dot Ball %": 47.4431818182,
+    "Boundary %": 95.3125
+  },
+  "AF Milne": {
+    "Strike Rate": 22.4431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 51.2784090909,
+    "Dot Ball %": 62.8551136364,
+    "Boundary %": 18.1818181818
+  },
+  "AG Murtaza": {
+    "Strike Rate": 20.6676136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.5710227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 25.7102272727
+  },
+  "AG Paunikar": {
+    "Strike Rate": 25.9943181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.4886363636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 91.6193181818,
+    "Boundary %": 61.4346590909
+  },
+  "AJ Finch": {
+    "Strike Rate": 67.4715909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 79.6875,
+    "Sixes/10b": 64.9147727273,
+    "Dot Ball %": 49.8579545455,
+    "Boundary %": 74.5738636364
+  },
+  "AJ Hosein": {
+    "Strike Rate": 89.0625,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 90.4829545455,
+    "Dot Ball %": 16.7613636364,
+    "Boundary %": 78.8352272727
+  },
+  "AJ Turner": {
+    "Strike Rate": 24.7159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 79.8295454545,
+    "Dot Ball %": 79.5454545455,
+    "Boundary %": 24.5028409091
+  },
+  "AJ Tye": {
+    "Strike Rate": 57.9545454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 40.4829545455,
+    "Sixes/10b": 79.2613636364,
+    "Dot Ball %": 65.0568181818,
+    "Boundary %": 56.3920454545
+  },
+  "AK Markram": {
+    "Strike Rate": 76.8465909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.5056818182,
+    "Sixes/10b": 71.0227272727,
+    "Dot Ball %": 5.2556818182,
+    "Boundary %": 64.4886363636
+  },
+  "AL Menaria": {
+    "Strike Rate": 50.2840909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 35.5113636364,
+    "Sixes/10b": 67.7556818182,
+    "Dot Ball %": 40.0568181818,
+    "Boundary %": 42.1875
+  },
+  "AM Nayar": {
+    "Strike Rate": 56.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.9715909091,
+    "Sixes/10b": 51.8465909091,
+    "Dot Ball %": 33.2386363636,
+    "Boundary %": 48.8636363636
+  },
+  "AM Rahane": {
+    "Strike Rate": 66.4772727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.2670454545,
+    "Sixes/10b": 49.2897727273,
+    "Dot Ball %": 23.4375,
+    "Boundary %": 65.4829545455
+  },
+  "AN Ahmed": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.84375,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 37.0738636364,
+    "Boundary %": 80.3977272727
+  },
+  "AN Ghosh": {
+    "Strike Rate": 29.4034090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.7642045455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.6420454545,
+    "Boundary %": 47.65625
+  },
+  "AP Dole": {
+    "Strike Rate": 90.7670454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.6761363636,
+    "Sixes/10b": 62.7840909091,
+    "Dot Ball %": 4.1193181818,
+    "Boundary %": 75.2840909091
+  },
+  "AP Majumdar": {
+    "Strike Rate": 54.9715909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 45.2414772727,
+    "Dot Ball %": 16.7613636364,
+    "Boundary %": 43.3948863636
+  },
+  "AP Tare": {
+    "Strike Rate": 62.3579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.7954545455,
+    "Sixes/10b": 57.9545454545,
+    "Dot Ball %": 65.9090909091,
+    "Boundary %": 77.4147727273
+  },
+  "AR Bawne": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 30.2556818182
+  },
+  "AR Patel": {
+    "Strike Rate": 73.8636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.8636363636,
+    "Sixes/10b": 78.9772727273,
+    "Dot Ball %": 13.4943181818,
+    "Boundary %": 63.2102272727
+  },
+  "AS Joseph": {
+    "Strike Rate": 27.5568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.6107954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 33.7357954545
+  },
+  "AS Rajpoot": {
+    "Strike Rate": 15.7670454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 26.7045454545,
+    "Sixes/10b": 44.1761363636,
+    "Dot Ball %": 89.4886363636,
+    "Boundary %": 26.1363636364
+  },
+  "AS Raut": {
+    "Strike Rate": 54.6875,
+    "Average": 50.0710227273,
+    "Fours/10b": 40.0568181818,
+    "Sixes/10b": 59.6590909091,
+    "Dot Ball %": 28.4090909091,
+    "Boundary %": 43.1107954545
+  },
+  "AS Roy": {
+    "Strike Rate": 44.3892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.2897727273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 49.21875,
+    "Boundary %": 44.6732954545
+  },
+  "AS Yadav": {
+    "Strike Rate": 66.9034090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.7642045455,
+    "Sixes/10b": 68.9630681818,
+    "Dot Ball %": 52.4147727273,
+    "Boundary %": 75.9943181818
+  },
+  "AT Carey": {
+    "Strike Rate": 50.8522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 52.5568181818,
+    "Dot Ball %": 3.125,
+    "Boundary %": 18.6079545455
+  },
+  "AT Rayudu": {
+    "Strike Rate": 68.6079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.3579545455,
+    "Sixes/10b": 68.1818181818,
+    "Dot Ball %": 17.4715909091,
+    "Boundary %": 64.2045454545
+  },
+  "AU Rashid": {
+    "Strike Rate": 74.7159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.5085227273,
+    "Sixes/10b": 76.9176136364,
+    "Dot Ball %": 59.7301136364,
+    "Boundary %": 76.6335227273
+  },
+  "AUK Pathan": {
+    "Strike Rate": 92.4005681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.0227272727,
+    "Sixes/10b": 85.6534090909,
+    "Dot Ball %": 77.9829545455,
+    "Boundary %": 96.5198863636
+  },
+  "Abdul Basith": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "Abdul Samad": {
+    "Strike Rate": 90.1988636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.4261363636,
+    "Sixes/10b": 92.6136363636,
+    "Dot Ball %": 14.4886363636,
+    "Boundary %": 82.3863636364
+  },
+  "Abdur Razzak": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "Abhishek Sharma": {
+    "Strike Rate": 94.1761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.0568181818,
+    "Sixes/10b": 89.3465909091,
+    "Dot Ball %": 27.4147727273,
+    "Boundary %": 93.75
+  },
+  "Abishek Porel": {
+    "Strike Rate": 89.3465909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.9261363636,
+    "Sixes/10b": 77.2727272727,
+    "Dot Ball %": 9.0909090909,
+    "Boundary %": 88.6363636364
+  },
+  "Akash Deep": {
+    "Strike Rate": 98.2954545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 98.5795454545,
+    "Dot Ball %": 13.9914772727,
+    "Boundary %": 97.3011363636
+  },
+  "Akash Madhwal": {
+    "Strike Rate": 13.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Aman Hakim Khan": {
+    "Strike Rate": 46.1647727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.9261363636,
+    "Sixes/10b": 74.2897727273,
+    "Dot Ball %": 73.1534090909,
+    "Boundary %": 49.4318181818
+  },
+  "Aniket Verma": {
+    "Strike Rate": 94.7443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.3181818182,
+    "Sixes/10b": 98.1534090909,
+    "Dot Ball %": 30.3977272727,
+    "Boundary %": 91.4772727273
+  },
+  "Anirudh Singh": {
+    "Strike Rate": 31.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.5085227273,
+    "Sixes/10b": 38.0681818182,
+    "Dot Ball %": 64.9147727273,
+    "Boundary %": 35.6534090909
+  },
+  "Ankit Sharma": {
+    "Strike Rate": 70.9517045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.3636363636,
+    "Sixes/10b": 76.4204545455,
+    "Dot Ball %": 41.3352272727,
+    "Boundary %": 68.6079545455
+  },
+  "Ankit Soni": {
+    "Strike Rate": 24.8579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 95.5965909091,
+    "Dot Ball %": 94.9573863636,
+    "Boundary %": 40.4119318182
+  },
+  "Anmolpreet Singh": {
+    "Strike Rate": 62.2159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.0397727273,
+    "Sixes/10b": 44.9573863636,
+    "Dot Ball %": 59.375,
+    "Boundary %": 82.6704545455
+  },
+  "Anuj Rawat": {
+    "Strike Rate": 58.1676136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.25,
+    "Sixes/10b": 70.0284090909,
+    "Dot Ball %": 51.2784090909,
+    "Boundary %": 59.8011363636
+  },
+  "Anureet Singh": {
+    "Strike Rate": 24.2897727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.5681818182,
+    "Sixes/10b": 42.0454545455,
+    "Dot Ball %": 58.3806818182,
+    "Boundary %": 24.21875
+  },
+  "Arjun Tendulkar": {
+    "Strike Rate": 88.9204545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 95.5965909091,
+    "Dot Ball %": 2.1306818182,
+    "Boundary %": 40.4119318182
+  },
+  "Arshad Khan": {
+    "Strike Rate": 77.5568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.2613636364,
+    "Sixes/10b": 92.96875,
+    "Dot Ball %": 46.1647727273,
+    "Boundary %": 66.0511363636
+  },
+  "Arshad Khan (2)": {
+    "Strike Rate": 69.6732954545,
+    "Average": 50.0710227273,
+    "Fours/10b": 98.5795454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 94.8863636364
+  },
+  "Arshdeep Singh": {
+    "Strike Rate": 16.4772727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 92.1875,
+    "Boundary %": 30.2556818182
+  },
+  "Ashutosh Sharma": {
+    "Strike Rate": 93.75,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.6107954545,
+    "Sixes/10b": 95.1704545455,
+    "Dot Ball %": 15.3409090909,
+    "Boundary %": 88.7784090909
+  },
+  "Atharva Taide": {
+    "Strike Rate": 84.9431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.6136363636,
+    "Sixes/10b": 62.0738636364,
+    "Dot Ball %": 30.9659090909,
+    "Boundary %": 88.4943181818
+  },
+  "Avesh Khan": {
+    "Strike Rate": 94.6022727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.3352272727,
+    "Sixes/10b": 93.8210227273,
+    "Dot Ball %": 56.4630681818,
+    "Boundary %": 95.7386363636
+  },
+  "Azhar Mahmood": {
+    "Strike Rate": 68.8920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 79.2613636364,
+    "Sixes/10b": 61.7897727273,
+    "Dot Ball %": 33.5227272727,
+    "Boundary %": 71.6619318182
+  },
+  "Azmatullah Omarzai": {
+    "Strike Rate": 73.6505681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.2102272727,
+    "Sixes/10b": 80.2556818182,
+    "Dot Ball %": 28.6931818182,
+    "Boundary %": 72.3721590909
+  },
+  "B Akhil": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.3607954545,
+    "Sixes/10b": 89.4886363636,
+    "Dot Ball %": 55.1136363636,
+    "Boundary %": 76.2073863636
+  },
+  "B Chipli": {
+    "Strike Rate": 50.5681818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 67.4005681818,
+    "Sixes/10b": 47.0170454545,
+    "Dot Ball %": 45.1704545455,
+    "Boundary %": 55.2556818182
+  },
+  "B Indrajith": {
+    "Strike Rate": 18.4659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.5880681818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 83.0965909091,
+    "Boundary %": 24.5028409091
+  },
+  "B Kumar": {
+    "Strike Rate": 29.5454545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.5852272727,
+    "Sixes/10b": 34.375,
+    "Dot Ball %": 62.6420454545,
+    "Boundary %": 33.5227272727
+  },
+  "B Laughlin": {
+    "Strike Rate": 7.2443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 86.5056818182,
+    "Boundary %": 8.59375
+  },
+  "B Lee": {
+    "Strike Rate": 66.3352272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 42.3295454545,
+    "Sixes/10b": 86.9318181818,
+    "Dot Ball %": 52.5568181818,
+    "Boundary %": 66.9744318182
+  },
+  "B Sai Sudharsan": {
+    "Strike Rate": 86.0795454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.7840909091,
+    "Sixes/10b": 60.9375,
+    "Dot Ball %": 5.1136363636,
+    "Boundary %": 80.2556818182
+  },
+  "B Stanlake": {
+    "Strike Rate": 99.7159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.7869318182,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 99.7869318182
+  },
+  "B Sumanth": {
+    "Strike Rate": 32.5284090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.1107954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 31.4630681818,
+    "Boundary %": 28.6931818182
+  },
+  "BA Bhatt": {
+    "Strike Rate": 28.5511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 98.5795454545,
+    "Dot Ball %": 96.1647727273,
+    "Boundary %": 58.4517045455
+  },
+  "BA Stokes": {
+    "Strike Rate": 75.5681818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.7386363636,
+    "Sixes/10b": 63.6363636364,
+    "Dot Ball %": 11.9318181818,
+    "Boundary %": 67.3295454545
+  },
+  "BAW Mendis": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "BB McCullum": {
+    "Strike Rate": 71.875,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.9659090909,
+    "Sixes/10b": 75.7102272727,
+    "Dot Ball %": 53.125,
+    "Boundary %": 80.9659090909
+  },
+  "BB Samantray": {
+    "Strike Rate": 49.1477272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.1704545455,
+    "Sixes/10b": 39.3465909091,
+    "Dot Ball %": 39.84375,
+    "Boundary %": 50.0
+  },
+  "BB Sran": {
+    "Strike Rate": 20.6676136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 13.9914772727,
+    "Boundary %": 8.59375
+  },
+  "BCJ Cutting": {
+    "Strike Rate": 96.0227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.2159090909,
+    "Sixes/10b": 97.5852272727,
+    "Dot Ball %": 33.0965909091,
+    "Boundary %": 93.4659090909
+  },
+  "BE Hendricks": {
+    "Strike Rate": 5.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "BJ Haddin": {
+    "Strike Rate": 96.4488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.9573863636,
+    "Sixes/10b": 90.4829545455,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 96.8039772727
+  },
+  "BJ Hodge": {
+    "Strike Rate": 66.1931818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 64.4886363636,
+    "Sixes/10b": 55.6818181818,
+    "Dot Ball %": 23.7215909091,
+    "Boundary %": 59.2329545455
+  },
+  "BJ Rohrer": {
+    "Strike Rate": 77.4147727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.2102272727,
+    "Sixes/10b": 52.1306818182,
+    "Dot Ball %": 29.9715909091,
+    "Boundary %": 77.2017045455
+  },
+  "BKG Mendis": {
+    "Strike Rate": 98.4375,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 99.2897727273,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 96.8039772727
+  },
+  "BMAJ Mendis": {
+    "Strike Rate": 27.9829545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 3.6931818182,
+    "Boundary %": 8.59375
+  },
+  "BR Dunk": {
+    "Strike Rate": 51.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.4488636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 80.46875,
+    "Boundary %": 85.9375
+  },
+  "BR Sharath": {
+    "Strike Rate": 7.5994318182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 8.59375
+  },
+  "Basil Thampi": {
+    "Strike Rate": 29.1193181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.875,
+    "Sixes/10b": 46.6619318182,
+    "Dot Ball %": 46.0227272727,
+    "Boundary %": 21.4488636364
+  },
+  "Bipul Sharma": {
+    "Strike Rate": 92.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.1420454545,
+    "Sixes/10b": 83.8778409091,
+    "Dot Ball %": 2.9829545455,
+    "Boundary %": 69.0340909091
+  },
+  "C Bosch": {
+    "Strike Rate": 90.3409090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.6107954545,
+    "Sixes/10b": 91.0511363636,
+    "Dot Ball %": 20.8806818182,
+    "Boundary %": 81.8892045455
+  },
+  "C Green": {
+    "Strike Rate": 92.0454545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.8181818182,
+    "Sixes/10b": 81.9602272727,
+    "Dot Ball %": 4.2613636364,
+    "Boundary %": 87.2159090909
+  },
+  "C Madan": {
+    "Strike Rate": 20.6676136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 93.2528409091,
+    "Boundary %": 58.4517045455
+  },
+  "C Munro": {
+    "Strike Rate": 67.1875,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.1022727273,
+    "Sixes/10b": 74.8579545455,
+    "Dot Ball %": 60.2272727273,
+    "Boundary %": 81.8892045455
+  },
+  "C Nanda": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "C Sakariya": {
+    "Strike Rate": 16.3352272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.1676136364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 91.7613636364,
+    "Boundary %": 34.4460227273
+  },
+  "C de Grandhomme": {
+    "Strike Rate": 77.8409090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 42.4715909091,
+    "Sixes/10b": 87.2159090909,
+    "Dot Ball %": 21.3068181818,
+    "Boundary %": 67.1875
+  },
+  "CA Ingram": {
+    "Strike Rate": 53.125,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.8579545455,
+    "Sixes/10b": 46.875,
+    "Dot Ball %": 43.0397727273,
+    "Boundary %": 61.4346590909
+  },
+  "CA Lynn": {
+    "Strike Rate": 82.9545454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.9488636364,
+    "Sixes/10b": 81.8181818182,
+    "Dot Ball %": 43.6079545455,
+    "Boundary %": 88.9204545455
+  },
+  "CA Pujara": {
+    "Strike Rate": 35.7954545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.2727272727,
+    "Sixes/10b": 34.8011363636,
+    "Dot Ball %": 65.7670454545,
+    "Boundary %": 53.125
+  },
+  "CH Gayle": {
+    "Strike Rate": 87.5,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.8693181818,
+    "Sixes/10b": 93.6079545455,
+    "Dot Ball %": 57.3863636364,
+    "Boundary %": 92.1875
+  },
+  "CH Morris": {
+    "Strike Rate": 91.9034090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.9431818182,
+    "Sixes/10b": 88.9204545455,
+    "Dot Ball %": 5.6818181818,
+    "Boundary %": 79.8295454545
+  },
+  "CJ Anderson": {
+    "Strike Rate": 67.6136363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 53.5511363636,
+    "Sixes/10b": 82.9545454545,
+    "Dot Ball %": 55.9659090909,
+    "Boundary %": 69.6022727273
+  },
+  "CJ Ferguson": {
+    "Strike Rate": 26.5625,
+    "Average": 50.0710227273,
+    "Fours/10b": 40.1988636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 63.6363636364,
+    "Boundary %": 27.1306818182
+  },
+  "CJ Jordan": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 23.3664772727,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 59.0198863636,
+    "Boundary %": 26.6335227273
+  },
+  "CJ McKay": {
+    "Strike Rate": 12.2159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 77.2017045455,
+    "Boundary %": 8.59375
+  },
+  "CK Kapugedera": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 40.5539772727,
+    "Boundary %": 8.59375
+  },
+  "CK Langeveldt": {
+    "Strike Rate": 30.3267045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 95.5965909091,
+    "Dot Ball %": 90.625,
+    "Boundary %": 40.4119318182
+  },
+  "CL White": {
+    "Strike Rate": 70.3125,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.9488636364,
+    "Sixes/10b": 68.0397727273,
+    "Dot Ball %": 12.9261363636,
+    "Boundary %": 61.2215909091
+  },
+  "CM Gautam": {
+    "Strike Rate": 47.8693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.3409090909,
+    "Sixes/10b": 56.3920454545,
+    "Dot Ball %": 76.8465909091,
+    "Boundary %": 60.2272727273
+  },
+  "CR Brathwaite": {
+    "Strike Rate": 92.8977272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 97.9403409091,
+    "Dot Ball %": 50.0,
+    "Boundary %": 91.6193181818
+  },
+  "CR Woakes": {
+    "Strike Rate": 42.3295454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 45.2414772727,
+    "Dot Ball %": 44.3181818182,
+    "Boundary %": 43.3948863636
+  },
+  "CRD Fernando": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "CV Varun": {
+    "Strike Rate": 11.9318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.0028409091,
+    "Boundary %": 19.6732954545
+  },
+  "D Brevis": {
+    "Strike Rate": 91.7613636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.0909090909,
+    "Sixes/10b": 94.8863636364,
+    "Dot Ball %": 30.8238636364,
+    "Boundary %": 89.2045454545
+  },
+  "D Ferreira": {
+    "Strike Rate": 16.1221590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "D Kalyankrishna": {
+    "Strike Rate": 6.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.6420454545,
+    "Boundary %": 8.59375
+  },
+  "D Padikkal": {
+    "Strike Rate": 65.4829545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.5397727273,
+    "Sixes/10b": 55.8238636364,
+    "Dot Ball %": 42.0454545455,
+    "Boundary %": 70.5965909091
+  },
+  "D Pretorius": {
+    "Strike Rate": 94.4602272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.1278409091,
+    "Sixes/10b": 94.4602272727,
+    "Dot Ball %": 13.9914772727,
+    "Boundary %": 91.1931818182
+  },
+  "D Salunkhe": {
+    "Strike Rate": 83.8068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.3721590909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 89.84375
+  },
+  "D Wiese": {
+    "Strike Rate": 86.9318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.3778409091,
+    "Sixes/10b": 81.3920454545,
+    "Dot Ball %": 5.5397727273,
+    "Boundary %": 77.8409090909
+  },
+  "D du Preez": {
+    "Strike Rate": 24.5028409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 8.59375
+  },
+  "DA Miller": {
+    "Strike Rate": 80.8238636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 57.3863636364,
+    "Sixes/10b": 77.6988636364,
+    "Dot Ball %": 8.6647727273,
+    "Boundary %": 66.4772727273
+  },
+  "DA Warner": {
+    "Strike Rate": 81.8181818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.5170454545,
+    "Sixes/10b": 67.1875,
+    "Dot Ball %": 27.2727272727,
+    "Boundary %": 80.5397727273
+  },
+  "DAJ Bracewell": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.8920454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 1.7045454545,
+    "Boundary %": 40.4119318182
+  },
+  "DB Das": {
+    "Strike Rate": 55.9659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.2954545455,
+    "Sixes/10b": 77.5568181818,
+    "Dot Ball %": 56.9602272727,
+    "Boundary %": 60.3693181818
+  },
+  "DB Ravi Teja": {
+    "Strike Rate": 58.5227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.4829545455,
+    "Sixes/10b": 47.4431818182,
+    "Dot Ball %": 24.1477272727,
+    "Boundary %": 53.9772727273
+  },
+  "DE Bollinger": {
+    "Strike Rate": 31.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.8522727273,
+    "Sixes/10b": 62.7840909091,
+    "Dot Ball %": 61.5767045455,
+    "Boundary %": 31.4630681818
+  },
+  "DG Nalkande": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 88.2102272727,
+    "Dot Ball %": 40.5539772727,
+    "Boundary %": 30.2556818182
+  },
+  "DH Yagnik": {
+    "Strike Rate": 63.6363636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.7556818182,
+    "Sixes/10b": 37.5,
+    "Dot Ball %": 48.2244318182,
+    "Boundary %": 76.4204545455
+  },
+  "DJ Bravo": {
+    "Strike Rate": 70.0284090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 57.6704545455,
+    "Sixes/10b": 72.5852272727,
+    "Dot Ball %": 33.6647727273,
+    "Boundary %": 62.5
+  },
+  "DJ Harris": {
+    "Strike Rate": 49.2897727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 64.7727272727,
+    "Sixes/10b": 66.9744318182,
+    "Dot Ball %": 73.2954545455,
+    "Boundary %": 65.9090909091
+  },
+  "DJ Hooda": {
+    "Strike Rate": 67.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.0340909091,
+    "Sixes/10b": 70.3125,
+    "Dot Ball %": 12.3579545455,
+    "Boundary %": 51.7045454545
+  },
+  "DJ Hussey": {
+    "Strike Rate": 64.6306818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.8863636364,
+    "Sixes/10b": 74.1477272727,
+    "Dot Ball %": 26.9886363636,
+    "Boundary %": 54.6875
+  },
+  "DJ Jacobs": {
+    "Strike Rate": 31.5340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.6590909091,
+    "Sixes/10b": 58.8068181818,
+    "Dot Ball %": 86.0795454545,
+    "Boundary %": 56.1079545455
+  },
+  "DJ Malan": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 24.0056818182,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 27.9119318182
+  },
+  "DJ Mitchell": {
+    "Strike Rate": 73.1534090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.9318181818,
+    "Sixes/10b": 53.9772727273,
+    "Dot Ball %": 3.8352272727,
+    "Boundary %": 56.25
+  },
+  "DJ Muthuswami": {
+    "Strike Rate": 5.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "DJ Thornely": {
+    "Strike Rate": 21.1647727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 23.3664772727,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 82.2443181818,
+    "Boundary %": 26.6335227273
+  },
+  "DJ Willey": {
+    "Strike Rate": 26.9886363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 67.4005681818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 81.1789772727,
+    "Boundary %": 38.9914772727
+  },
+  "DJG Sammy": {
+    "Strike Rate": 60.5113636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.8181818182,
+    "Sixes/10b": 83.3806818182,
+    "Dot Ball %": 45.4545454545,
+    "Boundary %": 51.1363636364
+  },
+  "DJM Short": {
+    "Strike Rate": 54.4744318182,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.6960227273,
+    "Sixes/10b": 67.6136363636,
+    "Dot Ball %": 59.7301136364,
+    "Boundary %": 66.9744318182
+  },
+  "DL Chahar": {
+    "Strike Rate": 82.5284090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.7528409091,
+    "Sixes/10b": 90.9090909091,
+    "Dot Ball %": 25.2840909091,
+    "Boundary %": 63.4943181818
+  },
+  "DL Vettori": {
+    "Strike Rate": 43.6079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.3323863636,
+    "Sixes/10b": 39.2045454545,
+    "Dot Ball %": 28.9772727273,
+    "Boundary %": 39.4886363636
+  },
+  "DM Bravo": {
+    "Strike Rate": 64.2045454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.9460227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 34.0909090909,
+    "Boundary %": 87.6420454545
+  },
+  "DNT Zoysa": {
+    "Strike Rate": 66.6903409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.8920454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 40.4119318182
+  },
+  "DP Conway": {
+    "Strike Rate": 82.3863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.3465909091,
+    "Sixes/10b": 62.5,
+    "Dot Ball %": 16.3352272727,
+    "Boundary %": 83.6647727273
+  },
+  "DP Nannes": {
+    "Strike Rate": 5.1136363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 92.4715909091,
+    "Boundary %": 8.59375
+  },
+  "DP Vijaykumar": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "DPMD Jayawardene": {
+    "Strike Rate": 62.0738636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.9602272727,
+    "Sixes/10b": 45.5965909091,
+    "Dot Ball %": 36.5056818182,
+    "Boundary %": 67.6136363636
+  },
+  "DR Martyn": {
+    "Strike Rate": 21.8039772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 24.0056818182,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 19.1051136364
+  },
+  "DR Sams": {
+    "Strike Rate": 32.1022727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.0227272727,
+    "Sixes/10b": 78.2670454545,
+    "Dot Ball %": 78.5511363636,
+    "Boundary %": 30.2556818182
+  },
+  "DR Shorey": {
+    "Strike Rate": 16.7613636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 68.9630681818,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 20.8806818182
+  },
+  "DR Smith": {
+    "Strike Rate": 77.6988636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.0909090909,
+    "Sixes/10b": 80.1136363636,
+    "Dot Ball %": 56.1079545455,
+    "Boundary %": 88.0681818182
+  },
+  "DS Kulkarni": {
+    "Strike Rate": 32.3863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.9545454545,
+    "Sixes/10b": 39.7727272727,
+    "Dot Ball %": 50.2840909091,
+    "Boundary %": 28.9772727273
+  },
+  "DS Lehmann": {
+    "Strike Rate": 34.2329545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.2585227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 76.2073863636,
+    "Boundary %": 67.7556818182
+  },
+  "DS Rathi": {
+    "Strike Rate": 4.7585227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.2471590909,
+    "Boundary %": 8.59375
+  },
+  "DT Christian": {
+    "Strike Rate": 54.4744318182,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.8295454545,
+    "Sixes/10b": 65.4829545455,
+    "Dot Ball %": 13.6363636364,
+    "Boundary %": 36.1505681818
+  },
+  "DT Patil": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 27.9119318182
+  },
+  "DW Steyn": {
+    "Strike Rate": 43.4659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.0113636364,
+    "Sixes/10b": 39.9147727273,
+    "Dot Ball %": 50.1420454545,
+    "Boundary %": 36.9318181818
+  },
+  "Dhruv Jurel": {
+    "Strike Rate": 91.6193181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 69.7443181818,
+    "Sixes/10b": 88.2102272727,
+    "Dot Ball %": 5.8238636364,
+    "Boundary %": 86.2215909091
+  },
+  "E Lewis": {
+    "Strike Rate": 76.5625,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.9829545455,
+    "Sixes/10b": 83.5227272727,
+    "Dot Ball %": 58.6647727273,
+    "Boundary %": 86.6477272727
+  },
+  "EJG Morgan": {
+    "Strike Rate": 62.5,
+    "Average": 50.0710227273,
+    "Fours/10b": 57.1022727273,
+    "Sixes/10b": 73.8636363636,
+    "Dot Ball %": 46.3068181818,
+    "Boundary %": 62.2159090909
+  },
+  "ER Dwivedi": {
+    "Strike Rate": 95.0994318182,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.4573863636,
+    "Sixes/10b": 97.9403409091,
+    "Dot Ball %": 58.0255681818,
+    "Boundary %": 96.3068181818
+  },
+  "F Behardien": {
+    "Strike Rate": 48.8636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.3352272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 64.9857954545
+  },
+  "F du Plessis": {
+    "Strike Rate": 78.125,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.1363636364,
+    "Sixes/10b": 66.4772727273,
+    "Dot Ball %": 14.3465909091,
+    "Boundary %": 73.5795454545
+  },
+  "FA Allen": {
+    "Strike Rate": 22.2301136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.0539772727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 60.4403409091,
+    "Boundary %": 21.3068181818
+  },
+  "FH Edwards": {
+    "Strike Rate": 25.4971590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 8.59375
+  },
+  "FY Fazal": {
+    "Strike Rate": 43.1818181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.7045454545,
+    "Sixes/10b": 33.6647727273,
+    "Dot Ball %": 39.6306818182,
+    "Boundary %": 49.5738636364
+  },
+  "Fazalhaq Farooqi": {
+    "Strike Rate": 5.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "G Coetzee": {
+    "Strike Rate": 33.9488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.3153409091,
+    "Sixes/10b": 77.8409090909,
+    "Dot Ball %": 79.1193181818,
+    "Boundary %": 45.6676136364
+  },
+  "G Gambhir": {
+    "Strike Rate": 63.4943181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.2272727273,
+    "Sixes/10b": 39.0625,
+    "Dot Ball %": 26.7045454545,
+    "Boundary %": 66.6193181818
+  },
+  "GB Hogg": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 26.2073863636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 2.2727272727,
+    "Boundary %": 20.5965909091
+  },
+  "GC Smith": {
+    "Strike Rate": 47.7272727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.2329545455,
+    "Sixes/10b": 37.2159090909,
+    "Dot Ball %": 56.8181818182,
+    "Boundary %": 62.3579545455
+  },
+  "GC Viljoen": {
+    "Strike Rate": 8.0965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 93.2528409091,
+    "Boundary %": 8.59375
+  },
+  "GD McGrath": {
+    "Strike Rate": 25.4971590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.9460227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 95.5965909091,
+    "Boundary %": 87.6420454545
+  },
+  "GD Phillips": {
+    "Strike Rate": 61.1505681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.7642045455,
+    "Sixes/10b": 95.0284090909,
+    "Dot Ball %": 83.2386363636,
+    "Boundary %": 69.8863636364
+  },
+  "GH Vihari": {
+    "Strike Rate": 28.8352272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.7897727273,
+    "Sixes/10b": 33.5227272727,
+    "Dot Ball %": 49.7159090909,
+    "Boundary %": 25.9943181818
+  },
+  "GHS Garton": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "GJ Bailey": {
+    "Strike Rate": 64.7727272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 64.9147727273,
+    "Sixes/10b": 52.2727272727,
+    "Dot Ball %": 20.8806818182,
+    "Boundary %": 57.3863636364
+  },
+  "GJ Maxwell": {
+    "Strike Rate": 91.1931818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 79.4034090909,
+    "Sixes/10b": 89.0625,
+    "Dot Ball %": 27.1306818182,
+    "Boundary %": 90.625
+  },
+  "GR Napier": {
+    "Strike Rate": 33.8068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.3806818182,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 48.7215909091,
+    "Boundary %": 23.7215909091
+  },
+  "Gulbadin Naib": {
+    "Strike Rate": 71.5909090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.0085227273,
+    "Sixes/10b": 81.3920454545,
+    "Dot Ball %": 2.6988636364,
+    "Boundary %": 52.7698863636
+  },
+  "Gurkeerat Singh": {
+    "Strike Rate": 60.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 79.5454545455,
+    "Sixes/10b": 44.6022727273,
+    "Dot Ball %": 29.2613636364,
+    "Boundary %": 63.6363636364
+  },
+  "H Das": {
+    "Strike Rate": 7.5994318182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 8.59375
+  },
+  "H Klaasen": {
+    "Strike Rate": 96.1647727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.9090909091,
+    "Sixes/10b": 92.1875,
+    "Dot Ball %": 2.8409090909,
+    "Boundary %": 89.0625
+  },
+  "HC Brook": {
+    "Strike Rate": 63.2102272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.4943181818,
+    "Sixes/10b": 44.3181818182,
+    "Dot Ball %": 49.4318181818,
+    "Boundary %": 73.1534090909
+  },
+  "HE van der Dussen": {
+    "Strike Rate": 29.8295454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.6789772727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 62.2159090909,
+    "Boundary %": 29.2613636364
+  },
+  "HF Gurney": {
+    "Strike Rate": 4.1903409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 95.5965909091,
+    "Boundary %": 8.59375
+  },
+  "HH Gibbs": {
+    "Strike Rate": 46.875,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.8011363636,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 64.2045454545,
+    "Boundary %": 54.5454545455
+  },
+  "HH Pandya": {
+    "Strike Rate": 86.5056818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 64.2045454545,
+    "Sixes/10b": 85.0852272727,
+    "Dot Ball %": 16.0511363636,
+    "Boundary %": 79.2613636364
+  },
+  "HM Amla": {
+    "Strike Rate": 84.6590909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.0681818182,
+    "Sixes/10b": 69.7443181818,
+    "Dot Ball %": 14.7727272727,
+    "Boundary %": 85.6534090909
+  },
+  "HR Shokeen": {
+    "Strike Rate": 37.0738636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.3096590909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 64.7727272727,
+    "Boundary %": 53.2670454545
+  },
+  "HV Patel": {
+    "Strike Rate": 53.2670454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 35.6534090909,
+    "Sixes/10b": 77.9829545455,
+    "Dot Ball %": 50.7102272727,
+    "Boundary %": 49.7159090909
+  },
+  "Harbhajan Singh": {
+    "Strike Rate": 76.2784090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.8409090909,
+    "Sixes/10b": 81.1079545455,
+    "Dot Ball %": 52.1306818182,
+    "Boundary %": 83.9488636364
+  },
+  "Harmeet Singh": {
+    "Strike Rate": 92.4005681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 98.5795454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 40.5539772727,
+    "Boundary %": 94.8863636364
+  },
+  "Harpreet Brar": {
+    "Strike Rate": 56.25,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.2840909091,
+    "Sixes/10b": 65.7670454545,
+    "Dot Ball %": 46.7329545455,
+    "Boundary %": 54.1193181818
+  },
+  "Harpreet Singh": {
+    "Strike Rate": 43.75,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.1590909091,
+    "Sixes/10b": 44.4602272727,
+    "Dot Ball %": 38.5653409091,
+    "Boundary %": 38.7784090909
+  },
+  "Harshit Rana": {
+    "Strike Rate": 43.8920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.3607954545,
+    "Sixes/10b": 71.8039772727,
+    "Dot Ball %": 82.6704545455,
+    "Boundary %": 57.1022727273
+  },
+  "I Malhotra": {
+    "Strike Rate": 97.8693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 98.5795454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 94.8863636364
+  },
+  "I Sharma": {
+    "Strike Rate": 25.8522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.6875,
+    "Sixes/10b": 48.0113636364,
+    "Dot Ball %": 79.6875,
+    "Boundary %": 31.1079545455
+  },
+  "I Udana": {
+    "Strike Rate": 82.8125,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 90.4829545455,
+    "Dot Ball %": 16.7613636364,
+    "Boundary %": 78.8352272727
+  },
+  "IC Pandey": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "IK Pathan": {
+    "Strike Rate": 59.9431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.0653409091,
+    "Sixes/10b": 57.8125,
+    "Dot Ball %": 22.4431818182,
+    "Boundary %": 49.2897727273
+  },
+  "IR Jaggi": {
+    "Strike Rate": 23.9346590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.1022727273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 74.4318181818,
+    "Boundary %": 23.0113636364
+  },
+  "IS Sodhi": {
+    "Strike Rate": 7.3863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 85.8664772727,
+    "Boundary %": 8.59375
+  },
+  "Imran Tahir": {
+    "Strike Rate": 30.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.59375,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 81.6761363636,
+    "Boundary %": 53.6221590909
+  },
+  "Iqbal Abdulla": {
+    "Strike Rate": 43.3238636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.4943181818,
+    "Sixes/10b": 35.6534090909,
+    "Dot Ball %": 41.0511363636,
+    "Boundary %": 43.1107954545
+  },
+  "Ishan Kishan": {
+    "Strike Rate": 80.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.8238636364,
+    "Sixes/10b": 77.4147727273,
+    "Dot Ball %": 32.6704545455,
+    "Boundary %": 82.8125
+  },
+  "J Arunkumar": {
+    "Strike Rate": 35.0852272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.3721590909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 89.84375
+  },
+  "J Botha": {
+    "Strike Rate": 53.6931818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.1278409091,
+    "Sixes/10b": 37.3579545455,
+    "Dot Ball %": 22.5852272727,
+    "Boundary %": 45.3125
+  },
+  "J Fraser-McGurk": {
+    "Strike Rate": 98.7215909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 95.8806818182,
+    "Sixes/10b": 98.8636363636,
+    "Dot Ball %": 55.6818181818,
+    "Boundary %": 99.5738636364
+  },
+  "J Overton": {
+    "Strike Rate": 99.5738636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 98.5795454545,
+    "Dot Ball %": 3.3380681818,
+    "Boundary %": 97.3011363636
+  },
+  "J Suchith": {
+    "Strike Rate": 54.8295454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.1676136364,
+    "Sixes/10b": 66.6193181818,
+    "Dot Ball %": 62.8551136364,
+    "Boundary %": 59.9431818182
+  },
+  "J Syed Mohammad": {
+    "Strike Rate": 48.2954545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.84375,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 37.0738636364,
+    "Boundary %": 61.7897727273
+  },
+  "J Theron": {
+    "Strike Rate": 24.5028409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 56.4630681818,
+    "Boundary %": 27.9119318182
+  },
+  "J Yadav": {
+    "Strike Rate": 45.8096590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.0539772727,
+    "Sixes/10b": 45.8096590909,
+    "Dot Ball %": 18.3238636364,
+    "Boundary %": 28.6931818182
+  },
+  "JA Morkel": {
+    "Strike Rate": 83.2386363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.8693181818,
+    "Sixes/10b": 86.2215909091,
+    "Dot Ball %": 12.7840909091,
+    "Boundary %": 69.7443181818
+  },
+  "JA Richardson": {
+    "Strike Rate": 15.3409090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.7073863636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 88.0681818182,
+    "Boundary %": 26.6335227273
+  },
+  "JC Archer": {
+    "Strike Rate": 88.2102272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 40.7670454545,
+    "Sixes/10b": 92.4715909091,
+    "Dot Ball %": 19.8863636364,
+    "Boundary %": 75.7102272727
+  },
+  "JC Buttler": {
+    "Strike Rate": 88.7784090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 79.9715909091,
+    "Dot Ball %": 26.8465909091,
+    "Boundary %": 89.6306818182
+  },
+  "JD Ryder": {
+    "Strike Rate": 74.8579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.6306818182,
+    "Sixes/10b": 59.8011363636,
+    "Dot Ball %": 45.0284090909,
+    "Boundary %": 82.9545454545
+  },
+  "JD Unadkat": {
+    "Strike Rate": 59.0909090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.1079545455,
+    "Sixes/10b": 60.6534090909,
+    "Dot Ball %": 38.5653409091,
+    "Boundary %": 53.8352272727
+  },
+  "JDP Oram": {
+    "Strike Rate": 35.5113636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.7642045455,
+    "Sixes/10b": 64.4176136364,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 35.0142045455
+  },
+  "JDS Neesham": {
+    "Strike Rate": 37.6420454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.5880681818,
+    "Sixes/10b": 42.2585227273,
+    "Dot Ball %": 45.3125,
+    "Boundary %": 31.25
+  },
+  "JE Root": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.0085227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 77.2017045455,
+    "Boundary %": 25.0
+  },
+  "JE Taylor": {
+    "Strike Rate": 22.9403409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "JEC Franklin": {
+    "Strike Rate": 46.7329545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.1761363636,
+    "Sixes/10b": 48.8636363636,
+    "Dot Ball %": 34.5170454545,
+    "Boundary %": 39.2045454545
+  },
+  "JG Bethell": {
+    "Strike Rate": 97.4431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.8693181818,
+    "Sixes/10b": 85.6534090909,
+    "Dot Ball %": 14.9147727273,
+    "Boundary %": 98.0113636364
+  },
+  "JH Kallis": {
+    "Strike Rate": 47.1590909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 69.3181818182,
+    "Sixes/10b": 40.7670454545,
+    "Dot Ball %": 44.7443181818,
+    "Boundary %": 50.7102272727
+  },
+  "JJ Bumrah": {
+    "Strike Rate": 27.4147727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.8125,
+    "Sixes/10b": 36.2215909091,
+    "Dot Ball %": 59.0198863636,
+    "Boundary %": 26.6335227273
+  },
+  "JJ Roy": {
+    "Strike Rate": 80.2556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.1818181818,
+    "Sixes/10b": 64.7727272727,
+    "Dot Ball %": 43.8920454545,
+    "Boundary %": 90.1278409091
+  },
+  "JJ van der Wath": {
+    "Strike Rate": 47.0170454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.3210227273,
+    "Sixes/10b": 76.9176136364,
+    "Dot Ball %": 59.7301136364,
+    "Boundary %": 43.8210227273
+  },
+  "JL Denly": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "JL Pattinson": {
+    "Strike Rate": 58.5227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.3352272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 4.5454545455,
+    "Boundary %": 64.9857954545
+  },
+  "JM Bairstow": {
+    "Strike Rate": 87.2159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.7784090909,
+    "Sixes/10b": 78.5511363636,
+    "Dot Ball %": 36.2215909091,
+    "Boundary %": 90.3409090909
+  },
+  "JM Kemp": {
+    "Strike Rate": 44.3892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 59.0909090909,
+    "Dot Ball %": 49.21875,
+    "Boundary %": 29.2613636364
+  },
+  "JM Sharma": {
+    "Strike Rate": 93.0397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.2954545455,
+    "Sixes/10b": 91.1931818182,
+    "Dot Ball %": 23.0113636364,
+    "Boundary %": 90.9090909091
+  },
+  "JO Holder": {
+    "Strike Rate": 62.7840909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.9602272727,
+    "Sixes/10b": 87.9261363636,
+    "Dot Ball %": 52.6988636364,
+    "Boundary %": 58.4517045455
+  },
+  "JP Behrendorff": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 8.59375
+  },
+  "JP Duminy": {
+    "Strike Rate": 65.625,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.5596590909,
+    "Sixes/10b": 65.9090909091,
+    "Dot Ball %": 8.8068181818,
+    "Boundary %": 46.4488636364
+  },
+  "JP Faulkner": {
+    "Strike Rate": 75.0,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.0,
+    "Sixes/10b": 75.2840909091,
+    "Dot Ball %": 13.9914772727,
+    "Boundary %": 60.0852272727
+  },
+  "JP Inglis": {
+    "Strike Rate": 94.3181818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.0625,
+    "Sixes/10b": 90.1988636364,
+    "Dot Ball %": 28.9772727273,
+    "Boundary %": 93.8920454545
+  },
+  "JPR Scantlebury-Searles": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 99.0056818182,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 71.1647727273
+  },
+  "JR Hazlewood": {
+    "Strike Rate": 15.625,
+    "Average": 50.0710227273,
+    "Fours/10b": 23.0113636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 18.3948863636
+  },
+  "JR Hopes": {
+    "Strike Rate": 78.8352272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.0454545455,
+    "Sixes/10b": 53.2670454545,
+    "Dot Ball %": 24.5028409091,
+    "Boundary %": 84.4460227273
+  },
+  "JR Philippe": {
+    "Strike Rate": 35.9375,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.3125,
+    "Sixes/10b": 36.4346590909,
+    "Dot Ball %": 60.8664772727,
+    "Boundary %": 47.65625
+  },
+  "Jaskaran Singh": {
+    "Strike Rate": 21.4488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 8.59375
+  },
+  "Joginder Sharma": {
+    "Strike Rate": 64.2045454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 23.0113636364,
+    "Sixes/10b": 81.3920454545,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 35.0142045455
+  },
+  "K Goel": {
+    "Strike Rate": 31.6761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.3579545455,
+    "Sixes/10b": 56.25,
+    "Dot Ball %": 78.8352272727,
+    "Boundary %": 38.4943181818
+  },
+  "K Gowtham": {
+    "Strike Rate": 93.8920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.6051136364,
+    "Sixes/10b": 94.3181818182,
+    "Dot Ball %": 29.4034090909,
+    "Boundary %": 88.2102272727
+  },
+  "K Kartikeya": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.2613636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 80.46875,
+    "Boundary %": 21.9460227273
+  },
+  "K Rabada": {
+    "Strike Rate": 38.0681818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.7073863636,
+    "Sixes/10b": 61.4346590909,
+    "Dot Ball %": 64.4886363636,
+    "Boundary %": 42.8977272727
+  },
+  "K Upadhyay": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 95.5965909091,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 40.4119318182
+  },
+  "K Yadav": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "KA Jamieson": {
+    "Strike Rate": 49.5738636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 68.9630681818,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 52.7698863636
+  },
+  "KA Maharaj": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "KA Pollard": {
+    "Strike Rate": 86.3636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.8465909091,
+    "Sixes/10b": 90.7670454545,
+    "Dot Ball %": 32.1022727273,
+    "Boundary %": 79.1193181818
+  },
+  "KAJ Roach": {
+    "Strike Rate": 51.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.8920454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 40.4119318182
+  },
+  "KB Arun Karthik": {
+    "Strike Rate": 35.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.9147727273,
+    "Sixes/10b": 40.4119318182,
+    "Dot Ball %": 53.2670454545,
+    "Boundary %": 33.9488636364
+  },
+  "KC Cariappa": {
+    "Strike Rate": 56.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 91.4772727273,
+    "Dot Ball %": 23.9346590909,
+    "Boundary %": 34.0909090909
+  },
+  "KC Sangakkara": {
+    "Strike Rate": 61.7897727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.6590909091,
+    "Sixes/10b": 40.625,
+    "Dot Ball %": 27.9829545455,
+    "Boundary %": 66.3352272727
+  },
+  "KD Karthik": {
+    "Strike Rate": 76.7045454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 79.9715909091,
+    "Sixes/10b": 63.2102272727,
+    "Dot Ball %": 15.7670454545,
+    "Boundary %": 73.4375
+  },
+  "KH Pandya": {
+    "Strike Rate": 72.5852272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 69.1761363636,
+    "Sixes/10b": 66.0511363636,
+    "Dot Ball %": 29.8295454545,
+    "Boundary %": 68.0397727273
+  },
+  "KJ Abbott": {
+    "Strike Rate": 95.8806818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 97.1590909091,
+    "Dot Ball %": 20.8806818182,
+    "Boundary %": 47.65625
+  },
+  "KK Ahmed": {
+    "Strike Rate": 4.4034090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.9573863636,
+    "Boundary %": 8.59375
+  },
+  "KK Cooper": {
+    "Strike Rate": 96.7329545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.6818181818,
+    "Sixes/10b": 96.0227272727,
+    "Dot Ball %": 40.1988636364,
+    "Boundary %": 94.4602272727
+  },
+  "KK Nair": {
+    "Strike Rate": 74.2897727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 86.2215909091,
+    "Sixes/10b": 55.5397727273,
+    "Dot Ball %": 31.8181818182,
+    "Boundary %": 77.2017045455
+  },
+  "KL Nagarkoti": {
+    "Strike Rate": 16.6193181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 22.65625,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 17.96875
+  },
+  "KL Rahul": {
+    "Strike Rate": 78.6931818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.7329545455,
+    "Sixes/10b": 72.1590909091,
+    "Dot Ball %": 11.6477272727,
+    "Boundary %": 71.875
+  },
+  "KM Asif": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "KM Jadhav": {
+    "Strike Rate": 62.9261363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.0795454545,
+    "Sixes/10b": 58.6647727273,
+    "Dot Ball %": 19.4602272727,
+    "Boundary %": 56.9602272727
+  },
+  "KMA Paul": {
+    "Strike Rate": 19.1761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 24.0056818182,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 89.0625,
+    "Boundary %": 27.9119318182
+  },
+  "KMDN Kulasekara": {
+    "Strike Rate": 96.9460227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.3607954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 99.1477272727
+  },
+  "KP Appanna": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "KP Pietersen": {
+    "Strike Rate": 77.2727272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.4318181818,
+    "Sixes/10b": 72.3011363636,
+    "Dot Ball %": 24.8579545455,
+    "Boundary %": 75.1420454545
+  },
+  "KR Mayers": {
+    "Strike Rate": 83.5227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.8011363636,
+    "Sixes/10b": 87.3579545455,
+    "Dot Ball %": 74.5738636364,
+    "Boundary %": 91.7613636364
+  },
+  "KR Sen": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "KS Bharat": {
+    "Strike Rate": 61.6477272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.5710227273,
+    "Sixes/10b": 66.2642045455,
+    "Dot Ball %": 18.75,
+    "Boundary %": 44.4602272727
+  },
+  "KS Rathore": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "KS Sharma": {
+    "Strike Rate": 15.9090909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 62.2159090909,
+    "Boundary %": 19.6732954545
+  },
+  "KS Williamson": {
+    "Strike Rate": 67.3295454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 65.6960227273,
+    "Sixes/10b": 54.2613636364,
+    "Dot Ball %": 14.6306818182,
+    "Boundary %": 59.6590909091
+  },
+  "KT Maphaka": {
+    "Strike Rate": 99.8579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 100.0,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 100.0
+  },
+  "KV Sharma": {
+    "Strike Rate": 57.5284090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 35.0852272727,
+    "Sixes/10b": 74.5738636364,
+    "Dot Ball %": 36.7897727273,
+    "Boundary %": 45.0284090909
+  },
+  "KW Richardson": {
+    "Strike Rate": 32.6704545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 27.4147727273,
+    "Sixes/10b": 44.9573863636,
+    "Dot Ball %": 47.7982954545,
+    "Boundary %": 27.9119318182
+  },
+  "Kamran Akmal": {
+    "Strike Rate": 96.5909090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.75,
+    "Sixes/10b": 93.8210227273,
+    "Dot Ball %": 42.4715909091,
+    "Boundary %": 96.5198863636
+  },
+  "Kamran Khan": {
+    "Strike Rate": 15.0568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 8.59375
+  },
+  "Karanveer Singh": {
+    "Strike Rate": 20.1704545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.3210227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 76.6335227273,
+    "Boundary %": 22.65625
+  },
+  "Kartik Tyagi": {
+    "Strike Rate": 26.1363636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.3806818182,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 48.7215909091,
+    "Boundary %": 23.7215909091
+  },
+  "Kuldeep Yadav": {
+    "Strike Rate": 27.2727272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.5596590909,
+    "Sixes/10b": 36.4346590909,
+    "Dot Ball %": 73.8636363636,
+    "Boundary %": 31.6761363636
+  },
+  "Kumar Kushagra": {
+    "Strike Rate": 8.0965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 93.2528409091,
+    "Boundary %": 8.59375
+  },
+  "L Ablish": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "L Balaji": {
+    "Strike Rate": 21.0227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 40.9801136364,
+    "Dot Ball %": 82.8835227273,
+    "Boundary %": 23.0113636364
+  },
+  "L Ngidi": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "L Ronchi": {
+    "Strike Rate": 32.2443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.8977272727,
+    "Sixes/10b": 46.6619318182,
+    "Dot Ball %": 92.7556818182,
+    "Boundary %": 83.1676136364
+  },
+  "L Wood": {
+    "Strike Rate": 100.0,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 100.0,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 99.1477272727
+  },
+  "LA Carseldine": {
+    "Strike Rate": 56.3920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.7613636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 48.2244318182,
+    "Boundary %": 65.7670454545
+  },
+  "LA Pomersbach": {
+    "Strike Rate": 65.3409090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.0852272727,
+    "Sixes/10b": 70.8806818182,
+    "Dot Ball %": 46.4488636364,
+    "Boundary %": 63.7784090909
+  },
+  "LB Williams": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "LE Plunkett": {
+    "Strike Rate": 5.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "LH Ferguson": {
+    "Strike Rate": 90.4829545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 60.15625,
+    "Dot Ball %": 3.3380681818,
+    "Boundary %": 79.5454545455
+  },
+  "LJ Wright": {
+    "Strike Rate": 97.1590909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.0056818182,
+    "Sixes/10b": 66.2642045455,
+    "Dot Ball %": 10.9375,
+    "Boundary %": 97.8693181818
+  },
+  "LMP Simmons": {
+    "Strike Rate": 67.0454545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.5568181818,
+    "Sixes/10b": 69.4602272727,
+    "Dot Ball %": 55.5397727273,
+    "Boundary %": 75.4261363636
+  },
+  "LPC Silva": {
+    "Strike Rate": 90.9090909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 95.5965909091,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 19.3181818182,
+    "Boundary %": 92.6136363636
+  },
+  "LR Shukla": {
+    "Strike Rate": 55.2556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 53.8352272727,
+    "Sixes/10b": 63.7784090909,
+    "Dot Ball %": 42.7556818182,
+    "Boundary %": 55.3977272727
+  },
+  "LRPL Taylor": {
+    "Strike Rate": 64.4886363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 42.0454545455,
+    "Sixes/10b": 74.0056818182,
+    "Dot Ball %": 31.1079545455,
+    "Boundary %": 52.0596590909
+  },
+  "LS Livingstone": {
+    "Strike Rate": 92.6136363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.6534090909,
+    "Sixes/10b": 94.7443181818,
+    "Dot Ball %": 21.875,
+    "Boundary %": 89.4886363636
+  },
+  "Lalit Yadav": {
+    "Strike Rate": 42.4715909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.4914772727,
+    "Sixes/10b": 43.6789772727,
+    "Dot Ball %": 44.3181818182,
+    "Boundary %": 41.4772727273
+  },
+  "Liton Das": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 98.5795454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.2471590909,
+    "Boundary %": 94.8863636364
+  },
+  "M Ashwin": {
+    "Strike Rate": 19.7443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.0,
+    "Sixes/10b": 40.9801136364,
+    "Dot Ball %": 78.2670454545,
+    "Boundary %": 23.0113636364
+  },
+  "M Jansen": {
+    "Strike Rate": 44.1761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.3210227273,
+    "Sixes/10b": 63.3522727273,
+    "Dot Ball %": 41.1931818182,
+    "Boundary %": 36.1505681818
+  },
+  "M Kaif": {
+    "Strike Rate": 42.0454545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.7272727273,
+    "Sixes/10b": 43.6789772727,
+    "Dot Ball %": 57.1732954545,
+    "Boundary %": 38.3522727273
+  },
+  "M Kartik": {
+    "Strike Rate": 44.0340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.2329545455,
+    "Sixes/10b": 34.5170454545,
+    "Dot Ball %": 3.5511363636,
+    "Boundary %": 26.2784090909
+  },
+  "M Klinger": {
+    "Strike Rate": 33.59375,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.3721590909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 56.4630681818,
+    "Boundary %": 42.5426136364
+  },
+  "M Manhas": {
+    "Strike Rate": 46.5909090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.8579545455,
+    "Sixes/10b": 41.6193181818,
+    "Dot Ball %": 36.0795454545,
+    "Boundary %": 38.6363636364
+  },
+  "M Markande": {
+    "Strike Rate": 50.0,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.1647727273,
+    "Sixes/10b": 43.0397727273,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 54.9715909091
+  },
+  "M Morkel": {
+    "Strike Rate": 82.1022727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.7215909091,
+    "Sixes/10b": 73.2954545455,
+    "Dot Ball %": 21.5198863636,
+    "Boundary %": 74.1477272727
+  },
+  "M Muralitharan": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 23.0113636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 81.3920454545,
+    "Boundary %": 18.3948863636
+  },
+  "M Ntini": {
+    "Strike Rate": 13.9204545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.9914772727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 95.3125,
+    "Boundary %": 37.3579545455
+  },
+  "M Prasidh Krishna": {
+    "Strike Rate": 6.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.6420454545,
+    "Boundary %": 8.59375
+  },
+  "M Rawat": {
+    "Strike Rate": 25.1420454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.3267045455,
+    "Sixes/10b": 37.9261363636,
+    "Dot Ball %": 63.2102272727,
+    "Boundary %": 25.7102272727
+  },
+  "M Shahrukh Khan": {
+    "Strike Rate": 87.0738636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.7102272727,
+    "Sixes/10b": 91.9034090909,
+    "Dot Ball %": 27.5568181818,
+    "Boundary %": 80.6818181818
+  },
+  "M Theekshana": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 49.0767045455,
+    "Dot Ball %": 88.8494318182,
+    "Boundary %": 17.96875
+  },
+  "M Tiwari": {
+    "Strike Rate": 22.9403409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "M Vijay": {
+    "Strike Rate": 61.9318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 69.8863636364,
+    "Sixes/10b": 60.7954545455,
+    "Dot Ball %": 51.8465909091,
+    "Boundary %": 64.3465909091
+  },
+  "M Vohra": {
+    "Strike Rate": 70.4545454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.0,
+    "Sixes/10b": 68.4659090909,
+    "Dot Ball %": 54.9715909091,
+    "Boundary %": 73.7215909091
+  },
+  "M de Lange": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "MA Agarwal": {
+    "Strike Rate": 74.1477272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.1136363636,
+    "Sixes/10b": 65.625,
+    "Dot Ball %": 32.9545454545,
+    "Boundary %": 75.5681818182
+  },
+  "MA Khote": {
+    "Strike Rate": 50.0,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 64.4176136364,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 54.9715909091
+  },
+  "MA Starc": {
+    "Strike Rate": 32.8125,
+    "Average": 50.0710227273,
+    "Fours/10b": 53.4090909091,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 42.8977272727,
+    "Boundary %": 32.6704545455
+  },
+  "MA Wood": {
+    "Strike Rate": 64.2045454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.2982954545,
+    "Sixes/10b": 92.96875,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 87.6420454545
+  },
+  "MC Henriques": {
+    "Strike Rate": 69.3181818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.4772727273,
+    "Sixes/10b": 53.125,
+    "Dot Ball %": 13.0681818182,
+    "Boundary %": 59.375
+  },
+  "MC Juneja": {
+    "Strike Rate": 33.2386363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 45.0284090909,
+    "Sixes/10b": 34.0909090909,
+    "Dot Ball %": 35.3693181818,
+    "Boundary %": 31.8181818182
+  },
+  "MD Mishra": {
+    "Strike Rate": 52.2727272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.4545454545,
+    "Sixes/10b": 56.0369318182,
+    "Dot Ball %": 61.7897727273,
+    "Boundary %": 62.7840909091
+  },
+  "MD Shanaka": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 56.4630681818,
+    "Boundary %": 42.5426136364
+  },
+  "MDKJ Perera": {
+    "Strike Rate": 48.8636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.8693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 86.5056818182,
+    "Boundary %": 93.3238636364
+  },
+  "MEK Hussey": {
+    "Strike Rate": 63.9204545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.7159090909,
+    "Sixes/10b": 50.7102272727,
+    "Dot Ball %": 29.6875,
+    "Boundary %": 63.9204545455
+  },
+  "MF Maharoof": {
+    "Strike Rate": 87.9261363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.1676136364,
+    "Sixes/10b": 83.8778409091,
+    "Dot Ball %": 13.28125,
+    "Boundary %": 72.8693181818
+  },
+  "MG Bracewell": {
+    "Strike Rate": 61.5056818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.2784090909,
+    "Sixes/10b": 41.4772727273,
+    "Dot Ball %": 10.3693181818,
+    "Boundary %": 58.4517045455
+  },
+  "MG Johnson": {
+    "Strike Rate": 37.9261363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.6761363636,
+    "Sixes/10b": 61.4346590909,
+    "Dot Ball %": 61.2215909091,
+    "Boundary %": 35.3693181818
+  },
+  "MJ Clarke": {
+    "Strike Rate": 43.0397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.7642045455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 51.9886363636,
+    "Boundary %": 47.65625
+  },
+  "MJ Guptill": {
+    "Strike Rate": 84.0909090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.7102272727,
+    "Sixes/10b": 84.8011363636,
+    "Dot Ball %": 51.5625,
+    "Boundary %": 87.0738636364
+  },
+  "MJ Lumb": {
+    "Strike Rate": 86.2215909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.5852272727,
+    "Sixes/10b": 49.7159090909,
+    "Dot Ball %": 63.0681818182,
+    "Boundary %": 95.8806818182
+  },
+  "MJ McClenaghan": {
+    "Strike Rate": 59.375,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.5056818182,
+    "Sixes/10b": 91.6193181818,
+    "Dot Ball %": 77.4147727273,
+    "Boundary %": 70.1704545455
+  },
+  "MJ Owen": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "MJ Santner": {
+    "Strike Rate": 37.7840909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.5511363636,
+    "Sixes/10b": 73.6505681818,
+    "Dot Ball %": 63.3522727273,
+    "Boundary %": 38.2102272727
+  },
+  "MJ Suthar": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "MK Lomror": {
+    "Strike Rate": 81.9602272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.4431818182,
+    "Sixes/10b": 86.0795454545,
+    "Dot Ball %": 11.0795454545,
+    "Boundary %": 69.4602272727
+  },
+  "MK Pandey": {
+    "Strike Rate": 60.7954545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.2215909091,
+    "Sixes/10b": 52.8409090909,
+    "Dot Ball %": 22.1590909091,
+    "Boundary %": 54.2613636364
+  },
+  "MK Tiwary": {
+    "Strike Rate": 55.8238636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.6363636364,
+    "Sixes/10b": 46.4488636364,
+    "Dot Ball %": 25.1420454545,
+    "Boundary %": 51.2784090909
+  },
+  "ML Hayden": {
+    "Strike Rate": 77.1306818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.3522727273,
+    "Sixes/10b": 71.3068181818,
+    "Dot Ball %": 48.4375,
+    "Boundary %": 86.7897727273
+  },
+  "MM Ali": {
+    "Strike Rate": 81.5340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.3948863636,
+    "Sixes/10b": 86.3636363636,
+    "Dot Ball %": 39.2045454545,
+    "Boundary %": 81.3920454545
+  },
+  "MM Patel": {
+    "Strike Rate": 34.5170454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.9232954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 49.0056818182,
+    "Boundary %": 46.2357954545
+  },
+  "MM Sharma": {
+    "Strike Rate": 30.6818181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.375,
+    "Sixes/10b": 48.4375,
+    "Dot Ball %": 73.5795454545,
+    "Boundary %": 33.0965909091
+  },
+  "MN Samuels": {
+    "Strike Rate": 32.9545454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 27.6278409091,
+    "Sixes/10b": 59.2329545455,
+    "Dot Ball %": 65.1988636364,
+    "Boundary %": 32.8125
+  },
+  "MN van Wyk": {
+    "Strike Rate": 68.0397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 86.0795454545,
+    "Sixes/10b": 33.9488636364,
+    "Dot Ball %": 5.9659090909,
+    "Boundary %": 61.7897727273
+  },
+  "MP Breetzke": {
+    "Strike Rate": 59.7301136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 88.2102272727,
+    "Dot Ball %": 83.5227272727,
+    "Boundary %": 71.1647727273
+  },
+  "MP Stoinis": {
+    "Strike Rate": 85.6534090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.1931818182,
+    "Sixes/10b": 84.0909090909,
+    "Dot Ball %": 18.4659090909,
+    "Boundary %": 77.9829545455
+  },
+  "MR Marsh": {
+    "Strike Rate": 85.0852272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 69.4602272727,
+    "Sixes/10b": 87.6420454545,
+    "Dot Ball %": 34.8011363636,
+    "Boundary %": 85.0852272727
+  },
+  "MS Bhandage": {
+    "Strike Rate": 4.7585227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.2471590909,
+    "Boundary %": 8.59375
+  },
+  "MS Bisla": {
+    "Strike Rate": 49.4318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 79.8295454545,
+    "Sixes/10b": 50.1420454545,
+    "Dot Ball %": 74.0056818182,
+    "Boundary %": 67.4715909091
+  },
+  "MS Dhoni": {
+    "Strike Rate": 78.5511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 53.2670454545,
+    "Sixes/10b": 79.6875,
+    "Dot Ball %": 15.9090909091,
+    "Boundary %": 66.1931818182
+  },
+  "MS Gony": {
+    "Strike Rate": 75.7102272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.1107954545,
+    "Sixes/10b": 94.0340909091,
+    "Dot Ball %": 74.8579545455,
+    "Boundary %": 80.1136363636
+  },
+  "MS Wade": {
+    "Strike Rate": 37.5,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.125,
+    "Sixes/10b": 35.0852272727,
+    "Dot Ball %": 72.8693181818,
+    "Boundary %": 53.6221590909
+  },
+  "MV Boucher": {
+    "Strike Rate": 68.1818181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.9375,
+    "Sixes/10b": 60.3693181818,
+    "Dot Ball %": 17.1875,
+    "Boundary %": 57.6704545455
+  },
+  "MW Short": {
+    "Strike Rate": 61.1505681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.3409090909,
+    "Sixes/10b": 59.375,
+    "Dot Ball %": 75.8522727273,
+    "Boundary %": 85.2272727273
+  },
+  "Mandeep Singh": {
+    "Strike Rate": 65.1988636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.4147727273,
+    "Sixes/10b": 46.3068181818,
+    "Dot Ball %": 30.2556818182,
+    "Boundary %": 63.3522727273
+  },
+  "Mashrafe Mortaza": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Mayank Dagar": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "Misbah-ul-Haq": {
+    "Strike Rate": 87.7840909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.9232954545,
+    "Sixes/10b": 84.2329545455,
+    "Dot Ball %": 22.0170454545,
+    "Boundary %": 86.0795454545
+  },
+  "Mohammad Ashraful": {
+    "Strike Rate": 3.90625,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 95.9517045455,
+    "Boundary %": 8.59375
+  },
+  "Mohammad Asif": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Mohammad Hafeez": {
+    "Strike Rate": 24.1477272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 44.0340909091,
+    "Dot Ball %": 85.6534090909,
+    "Boundary %": 38.0681818182
+  },
+  "Mohammad Nabi": {
+    "Strike Rate": 86.6477272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.5909090909,
+    "Sixes/10b": 84.9431818182,
+    "Dot Ball %": 24.5028409091,
+    "Boundary %": 84.4460227273
+  },
+  "Mohammed Shami": {
+    "Strike Rate": 31.1079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.7727272727,
+    "Sixes/10b": 42.2585227273,
+    "Dot Ball %": 65.3409090909,
+    "Boundary %": 34.4460227273
+  },
+  "Mohammed Siraj": {
+    "Strike Rate": 29.9715909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 42.7556818182,
+    "Sixes/10b": 50.5681818182,
+    "Dot Ball %": 80.8238636364,
+    "Boundary %": 39.6306818182
+  },
+  "Mohit Rathee": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Mohsin Khan": {
+    "Strike Rate": 33.0965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.7073863636,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 80.46875,
+    "Boundary %": 40.4119318182
+  },
+  "Mujeeb Ur Rahman": {
+    "Strike Rate": 25.4971590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.4573863636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 84.7301136364,
+    "Boundary %": 52.7698863636
+  },
+  "Mukesh Choudhary": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.75,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 71.1647727273
+  },
+  "Mukesh Kumar": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Musheer Khan": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "Mustafizur Rahman": {
+    "Strike Rate": 12.5,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 61.4346590909,
+    "Dot Ball %": 90.625,
+    "Boundary %": 20.0284090909
+  },
+  "N Jagadeesan": {
+    "Strike Rate": 45.0284090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.8068181818,
+    "Sixes/10b": 37.0738636364,
+    "Dot Ball %": 60.0852272727,
+    "Boundary %": 62.0738636364
+  },
+  "N Pooran": {
+    "Strike Rate": 95.3125,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.6079545455,
+    "Sixes/10b": 96.4488636364,
+    "Dot Ball %": 19.7443181818,
+    "Boundary %": 93.1818181818
+  },
+  "N Rana": {
+    "Strike Rate": 77.9829545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.1420454545,
+    "Sixes/10b": 80.6818181818,
+    "Dot Ball %": 39.3465909091,
+    "Boundary %": 81.25
+  },
+  "N Saini": {
+    "Strike Rate": 36.5056818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.0284090909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 61.0795454545,
+    "Boundary %": 41.1931818182
+  },
+  "N Wadhera": {
+    "Strike Rate": 84.375,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.875,
+    "Sixes/10b": 84.5170454545,
+    "Dot Ball %": 30.5397727273,
+    "Boundary %": 83.3806818182
+  },
+  "NA Saini": {
+    "Strike Rate": 28.9772727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 50.9232954545,
+    "Boundary %": 30.2556818182
+  },
+  "ND Doshi": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "NJ Maddinson": {
+    "Strike Rate": 34.6590909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 95.7386363636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 93.2528409091,
+    "Boundary %": 84.1619318182
+  },
+  "NJ Rimmington": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "NL McCullum": {
+    "Strike Rate": 55.1136363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 62.7840909091,
+    "Dot Ball %": 10.7954545455,
+    "Boundary %": 20.3125
+  },
+  "NLTC Perera": {
+    "Strike Rate": 75.1420454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.0738636364,
+    "Sixes/10b": 87.5,
+    "Dot Ball %": 32.3863636364,
+    "Boundary %": 62.9261363636
+  },
+  "NM Coulter-Nile": {
+    "Strike Rate": 50.4261363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.6164772727,
+    "Sixes/10b": 72.8693181818,
+    "Dot Ball %": 75.4971590909,
+    "Boundary %": 60.7954545455
+  },
+  "NS Naik": {
+    "Strike Rate": 14.3465909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 23.5795454545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 83.6647727273,
+    "Boundary %": 18.75
+  },
+  "NT Ellis": {
+    "Strike Rate": 21.8039772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 77.9829545455,
+    "Boundary %": 19.1051136364
+  },
+  "NV Ojha": {
+    "Strike Rate": 56.6761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.5681818182,
+    "Sixes/10b": 76.5625,
+    "Dot Ball %": 61.3636363636,
+    "Boundary %": 60.9375
+  },
+  "Naman Dhir": {
+    "Strike Rate": 97.7272727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.3238636364,
+    "Sixes/10b": 93.4659090909,
+    "Dot Ball %": 6.25,
+    "Boundary %": 96.0227272727
+  },
+  "Navdeep Saini": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Naveen-ul-Haq": {
+    "Strike Rate": 19.1761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 86.5056818182,
+    "Boundary %": 27.9119318182
+  },
+  "Niraj Patel": {
+    "Strike Rate": 36.0795454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.8806818182,
+    "Sixes/10b": 34.2329545455,
+    "Dot Ball %": 64.6306818182,
+    "Boundary %": 45.4545454545
+  },
+  "Nithish Kumar Reddy": {
+    "Strike Rate": 72.0170454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 44.4602272727,
+    "Sixes/10b": 80.8238636364,
+    "Dot Ball %": 18.8920454545,
+    "Boundary %": 60.6534090909
+  },
+  "Noor Ahmad": {
+    "Strike Rate": 13.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.3267045455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 89.3465909091,
+    "Boundary %": 22.3011363636
+  },
+  "OA Shah": {
+    "Strike Rate": 69.4602272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.0170454545,
+    "Sixes/10b": 75.5681818182,
+    "Dot Ball %": 18.1818181818,
+    "Boundary %": 57.2443181818
+  },
+  "OC McCoy": {
+    "Strike Rate": 95.0994318182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 99.7159090909,
+    "Dot Ball %": 34.0909090909,
+    "Boundary %": 87.6420454545
+  },
+  "OF Smith": {
+    "Strike Rate": 42.8977272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 20.8806818182,
+    "Sixes/10b": 92.96875,
+    "Dot Ball %": 82.8835227273,
+    "Boundary %": 44.6732954545
+  },
+  "P Awana": {
+    "Strike Rate": 6.25,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 88.6363636364,
+    "Boundary %": 8.59375
+  },
+  "P Chopra": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.3607954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 99.1477272727
+  },
+  "P Dogra": {
+    "Strike Rate": 30.9659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 22.4431818182,
+    "Sixes/10b": 53.6931818182,
+    "Dot Ball %": 51.7045454545,
+    "Boundary %": 24.21875
+  },
+  "P Dubey": {
+    "Strike Rate": 19.6022727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.3153409091,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 75.0,
+    "Boundary %": 23.2954545455
+  },
+  "P Kumar": {
+    "Strike Rate": 45.8096590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.3636363636,
+    "Sixes/10b": 71.8039772727,
+    "Dot Ball %": 63.9204545455,
+    "Boundary %": 45.1704545455
+  },
+  "P Negi": {
+    "Strike Rate": 66.0511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.4914772727,
+    "Sixes/10b": 72.7272727273,
+    "Dot Ball %": 38.7784090909,
+    "Boundary %": 58.4517045455
+  },
+  "P Parameswaran": {
+    "Strike Rate": 5.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "P Ray Barman": {
+    "Strike Rate": 23.9346590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.6789772727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 62.2159090909,
+    "Boundary %": 29.2613636364
+  },
+  "P Sahu": {
+    "Strike Rate": 89.6306818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 85.6534090909,
+    "Dot Ball %": 4.5454545455,
+    "Boundary %": 64.9857954545
+  },
+  "P Simran Singh": {
+    "Strike Rate": 92.1875,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.9034090909,
+    "Sixes/10b": 87.0738636364,
+    "Dot Ball %": 39.0625,
+    "Boundary %": 93.6079545455
+  },
+  "PA Patel": {
+    "Strike Rate": 59.5170454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.1988636364,
+    "Sixes/10b": 41.1931818182,
+    "Dot Ball %": 50.4261363636,
+    "Boundary %": 73.0113636364
+  },
+  "PA Reddy": {
+    "Strike Rate": 36.9318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.7045454545,
+    "Sixes/10b": 35.9375,
+    "Dot Ball %": 45.7386363636,
+    "Boundary %": 35.7954545455
+  },
+  "PBB Rajapaksa": {
+    "Strike Rate": 84.5170454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 67.6136363636,
+    "Sixes/10b": 84.375,
+    "Dot Ball %": 33.3806818182,
+    "Boundary %": 79.9715909091
+  },
+  "PC Valthaty": {
+    "Strike Rate": 60.0852272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 86.5056818182,
+    "Sixes/10b": 65.1988636364,
+    "Dot Ball %": 76.9886363636,
+    "Boundary %": 81.8892045455
+  },
+  "PD Collingwood": {
+    "Strike Rate": 72.7272727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.9715909091,
+    "Sixes/10b": 87.7840909091,
+    "Dot Ball %": 21.7329545455,
+    "Boundary %": 55.9659090909
+  },
+  "PD Salt": {
+    "Strike Rate": 97.3011363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.7329545455,
+    "Sixes/10b": 90.0568181818,
+    "Dot Ball %": 28.125,
+    "Boundary %": 97.3011363636
+  },
+  "PHKD Mendis": {
+    "Strike Rate": 72.8693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.6647727273,
+    "Sixes/10b": 47.65625,
+    "Dot Ball %": 10.5113636364,
+    "Boundary %": 47.65625
+  },
+  "PJ Cummins": {
+    "Strike Rate": 90.0568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.8295454545,
+    "Sixes/10b": 92.3295454545,
+    "Dot Ball %": 35.9375,
+    "Boundary %": 84.9431818182
+  },
+  "PJ Sangwan": {
+    "Strike Rate": 12.7840909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.1647727273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 82.3863636364,
+    "Boundary %": 17.1875
+  },
+  "PK Garg": {
+    "Strike Rate": 51.1363636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.8011363636,
+    "Sixes/10b": 53.8352272727,
+    "Dot Ball %": 23.2954545455,
+    "Boundary %": 35.5113636364
+  },
+  "PM Sarvesh Kumar": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "PN Mankad": {
+    "Strike Rate": 74.4318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.0340909091,
+    "Sixes/10b": 46.0227272727,
+    "Dot Ball %": 43.1818181818,
+    "Boundary %": 87.6420454545
+  },
+  "PP Chawla": {
+    "Strike Rate": 48.4375,
+    "Average": 50.0710227273,
+    "Fours/10b": 57.8125,
+    "Sixes/10b": 52.5568181818,
+    "Dot Ball %": 53.4090909091,
+    "Boundary %": 50.9943181818
+  },
+  "PP Ojha": {
+    "Strike Rate": 6.1079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "PP Shaw": {
+    "Strike Rate": 88.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.7443181818,
+    "Sixes/10b": 65.0568181818,
+    "Dot Ball %": 31.9602272727,
+    "Boundary %": 93.0397727273
+  },
+  "PR Shah": {
+    "Strike Rate": 34.375,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.1193181818,
+    "Sixes/10b": 41.7613636364,
+    "Dot Ball %": 75.1420454545,
+    "Boundary %": 41.7613636364
+  },
+  "PSP Handscomb": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "PV Tambe": {
+    "Strike Rate": 8.8068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.5198863636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 86.5056818182,
+    "Boundary %": 17.4715909091
+  },
+  "PVD Chameera": {
+    "Strike Rate": 58.1676136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 35.2982954545,
+    "Sixes/10b": 80.46875,
+    "Dot Ball %": 47.0880681818,
+    "Boundary %": 50.4261363636
+  },
+  "PVSN Raju": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "PWA Mulder": {
+    "Strike Rate": 22.9403409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 30.2556818182
+  },
+  "PWH de Silva": {
+    "Strike Rate": 28.125,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.2102272727,
+    "Sixes/10b": 34.9431818182,
+    "Dot Ball %": 73.4375,
+    "Boundary %": 30.8238636364
+  },
+  "Pankaj Singh": {
+    "Strike Rate": 14.1335227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Parvez Rasool": {
+    "Strike Rate": 27.8409090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 27.0596590909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 11.2215909091,
+    "Boundary %": 20.8806818182
+  },
+  "Prince Yadav": {
+    "Strike Rate": 8.6647727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 79.1193181818,
+    "Boundary %": 8.59375
+  },
+  "Priyansh Arya": {
+    "Strike Rate": 98.0113636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.2357954545,
+    "Sixes/10b": 92.96875,
+    "Dot Ball %": 23.5795454545,
+    "Boundary %": 97.7272727273
+  },
+  "Q de Kock": {
+    "Strike Rate": 75.9943181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.3977272727,
+    "Sixes/10b": 72.4431818182,
+    "Dot Ball %": 35.2272727273,
+    "Boundary %": 78.125
+  },
+  "R Ashwin": {
+    "Strike Rate": 57.2443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.7159090909,
+    "Sixes/10b": 58.9488636364,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 49.1477272727
+  },
+  "R Bhatia": {
+    "Strike Rate": 60.9375,
+    "Average": 50.0710227273,
+    "Fours/10b": 45.1704545455,
+    "Sixes/10b": 63.9204545455,
+    "Dot Ball %": 22.8693181818,
+    "Boundary %": 49.0056818182
+  },
+  "R Bishnoi": {
+    "Strike Rate": 52.8409090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 31.3210227273,
+    "Sixes/10b": 96.5909090909,
+    "Dot Ball %": 88.8494318182,
+    "Boundary %": 76.6335227273
+  },
+  "R Dhawan": {
+    "Strike Rate": 52.6988636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 57.2443181818,
+    "Sixes/10b": 55.3977272727,
+    "Dot Ball %": 52.8409090909,
+    "Boundary %": 52.4147727273
+  },
+  "R Dravid": {
+    "Strike Rate": 55.3977272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.6534090909,
+    "Sixes/10b": 38.2102272727,
+    "Dot Ball %": 43.4659090909,
+    "Boundary %": 65.625
+  },
+  "R McLaren": {
+    "Strike Rate": 30.8238636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 42.6136363636,
+    "Sixes/10b": 33.8068181818,
+    "Dot Ball %": 43.3238636364,
+    "Boundary %": 30.9659090909
+  },
+  "R Minz": {
+    "Strike Rate": 6.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 92.1875,
+    "Boundary %": 8.59375
+  },
+  "R Ninan": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "R Parag": {
+    "Strike Rate": 82.2443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.5227272727,
+    "Sixes/10b": 84.6590909091,
+    "Dot Ball %": 19.1761363636,
+    "Boundary %": 74.4318181818
+  },
+  "R Powell": {
+    "Strike Rate": 85.7954545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 47.3011363636,
+    "Sixes/10b": 94.6022727273,
+    "Dot Ball %": 50.9232954545,
+    "Boundary %": 84.8011363636
+  },
+  "R Rampaul": {
+    "Strike Rate": 36.6477272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.5397727273,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 34.2329545455
+  },
+  "R Ravindra": {
+    "Strike Rate": 85.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.0965909091,
+    "Sixes/10b": 73.1534090909,
+    "Dot Ball %": 15.0568181818,
+    "Boundary %": 82.5284090909
+  },
+  "R Sai Kishore": {
+    "Strike Rate": 54.1193181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 97.1590909091,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 47.65625
+  },
+  "R Sanjay Yadav": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "R Sathish": {
+    "Strike Rate": 57.1022727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 54.3323863636,
+    "Sixes/10b": 44.7443181818,
+    "Dot Ball %": 28.9772727273,
+    "Boundary %": 44.2471590909
+  },
+  "R Sharma": {
+    "Strike Rate": 28.5511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.9431818182,
+    "Sixes/10b": 58.3806818182,
+    "Dot Ball %": 87.2159090909,
+    "Boundary %": 36.7897727273
+  },
+  "R Shepherd": {
+    "Strike Rate": 99.0056818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.1079545455,
+    "Sixes/10b": 99.4318181818,
+    "Dot Ball %": 21.5198863636,
+    "Boundary %": 98.1534090909
+  },
+  "R Shukla": {
+    "Strike Rate": 26.7755681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.5085227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 47.0880681818,
+    "Boundary %": 31.4630681818
+  },
+  "R Tewatia": {
+    "Strike Rate": 75.8522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 64.3465909091,
+    "Sixes/10b": 79.4034090909,
+    "Dot Ball %": 29.5454545455,
+    "Boundary %": 72.7272727273
+  },
+  "R Vinay Kumar": {
+    "Strike Rate": 48.1534090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 37.7840909091,
+    "Sixes/10b": 50.0,
+    "Dot Ball %": 37.5,
+    "Boundary %": 36.6477272727
+  },
+  "RA Bawa": {
+    "Strike Rate": 46.3778409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.2613636364,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 28.2670454545,
+    "Boundary %": 21.9460227273
+  },
+  "RA Jadeja": {
+    "Strike Rate": 69.8863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 53.6931818182,
+    "Sixes/10b": 64.0625,
+    "Dot Ball %": 9.375,
+    "Boundary %": 55.5397727273
+  },
+  "RA Tripathi": {
+    "Strike Rate": 81.1079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.9545454545,
+    "Sixes/10b": 68.3238636364,
+    "Dot Ball %": 23.1534090909,
+    "Boundary %": 79.6875
+  },
+  "RD Chahar": {
+    "Strike Rate": 42.6136363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.0738636364,
+    "Sixes/10b": 58.5227272727,
+    "Dot Ball %": 79.8295454545,
+    "Boundary %": 57.8125
+  },
+  "RD Gaikwad": {
+    "Strike Rate": 81.25,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.1306818182,
+    "Sixes/10b": 70.1704545455,
+    "Dot Ball %": 15.1988636364,
+    "Boundary %": 75.8522727273
+  },
+  "RD Rickelton": {
+    "Strike Rate": 89.4886363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.3181818182,
+    "Sixes/10b": 79.5454545455,
+    "Dot Ball %": 48.0113636364,
+    "Boundary %": 94.1761363636
+  },
+  "RE Levi": {
+    "Strike Rate": 53.4090909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.59375,
+    "Sixes/10b": 73.6505681818,
+    "Dot Ball %": 80.1136363636,
+    "Boundary %": 83.1676136364
+  },
+  "RE van der Merwe": {
+    "Strike Rate": 50.9943181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 40.625,
+    "Sixes/10b": 74.8579545455,
+    "Dot Ball %": 55.8238636364,
+    "Boundary %": 51.8465909091
+  },
+  "RG More": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "RG Sharma": {
+    "Strike Rate": 74.0056818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.1534090909,
+    "Sixes/10b": 74.4318181818,
+    "Dot Ball %": 30.6818181818,
+    "Boundary %": 74.7159090909
+  },
+  "RJ Gleeson": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "RJ Harris": {
+    "Strike Rate": 44.8863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.4090909091,
+    "Sixes/10b": 46.1647727273,
+    "Dot Ball %": 38.2102272727,
+    "Boundary %": 29.5454545455
+  },
+  "RJ Peterson": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.6107954545,
+    "Sixes/10b": 50.3551136364,
+    "Dot Ball %": 58.5227272727,
+    "Boundary %": 47.65625
+  },
+  "RJ Quiney": {
+    "Strike Rate": 36.7897727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.3778409091,
+    "Sixes/10b": 48.4375,
+    "Dot Ball %": 78.6931818182,
+    "Boundary %": 58.4517045455
+  },
+  "RJW Topley": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "RK Bhui": {
+    "Strike Rate": 6.5340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 92.8977272727,
+    "Boundary %": 8.59375
+  },
+  "RK Singh": {
+    "Strike Rate": 85.2272727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 67.7556818182,
+    "Sixes/10b": 82.8125,
+    "Dot Ball %": 17.0454545455,
+    "Boundary %": 77.5568181818
+  },
+  "RM Patidar": {
+    "Strike Rate": 89.7727272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.5113636364,
+    "Sixes/10b": 89.7727272727,
+    "Dot Ball %": 10.2272727273,
+    "Boundary %": 83.5227272727
+  },
+  "RN ten Doeschate": {
+    "Strike Rate": 83.3806818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.9744318182,
+    "Sixes/10b": 78.8352272727,
+    "Dot Ball %": 8.9488636364,
+    "Boundary %": 74.8579545455
+  },
+  "RP Meredith": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "RP Singh": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.5198863636,
+    "Sixes/10b": 36.8607954545,
+    "Dot Ball %": 75.9943181818,
+    "Boundary %": 19.1051136364
+  },
+  "RR Bhatkal": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "RR Pant": {
+    "Strike Rate": 87.6420454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 80.2556818182,
+    "Sixes/10b": 82.1022727273,
+    "Dot Ball %": 16.4772727273,
+    "Boundary %": 86.5056818182
+  },
+  "RR Powar": {
+    "Strike Rate": 45.1704545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.6107954545,
+    "Sixes/10b": 38.4943181818,
+    "Dot Ball %": 41.9034090909,
+    "Boundary %": 38.9914772727
+  },
+  "RR Raje": {
+    "Strike Rate": 51.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.2613636364,
+    "Sixes/10b": 74.8579545455,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 40.4119318182
+  },
+  "RR Rossouw": {
+    "Strike Rate": 90.625,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.5113636364,
+    "Sixes/10b": 86.6477272727,
+    "Dot Ball %": 34.6590909091,
+    "Boundary %": 92.0454545455
+  },
+  "RR Sarwan": {
+    "Strike Rate": 33.59375,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 36.8607954545,
+    "Dot Ball %": 47.7982954545,
+    "Boundary %": 31.9602272727
+  },
+  "RS Bopara": {
+    "Strike Rate": 55.5397727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 51.9886363636,
+    "Dot Ball %": 20.4545454545,
+    "Boundary %": 43.6079545455
+  },
+  "RS Gavaskar": {
+    "Strike Rate": 4.7585227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.2471590909,
+    "Boundary %": 8.59375
+  },
+  "RS Sodhi": {
+    "Strike Rate": 99.21875,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.7869318182,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 99.7869318182
+  },
+  "RT Ponting": {
+    "Strike Rate": 20.0284090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 24.4318181818,
+    "Sixes/10b": 38.3522727273,
+    "Dot Ball %": 77.5568181818,
+    "Boundary %": 21.5909090909
+  },
+  "RV Gomez": {
+    "Strike Rate": 34.0909090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.6051136364,
+    "Sixes/10b": 40.4119318182,
+    "Dot Ball %": 74.1477272727,
+    "Boundary %": 41.6193181818
+  },
+  "RV Patel": {
+    "Strike Rate": 45.8096590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.1107954545,
+    "Sixes/10b": 45.8096590909,
+    "Dot Ball %": 24.2897727273,
+    "Boundary %": 37.3579545455
+  },
+  "RV Uthappa": {
+    "Strike Rate": 71.1647727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.4204545455,
+    "Sixes/10b": 65.3409090909,
+    "Dot Ball %": 36.6477272727,
+    "Boundary %": 72.3721590909
+  },
+  "Rahmanullah Gurbaz": {
+    "Strike Rate": 73.2954545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.5738636364,
+    "Sixes/10b": 86.5056818182,
+    "Dot Ball %": 75.2840909091,
+    "Boundary %": 86.9318181818
+  },
+  "Ramandeep Singh": {
+    "Strike Rate": 93.6079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.9488636364,
+    "Sixes/10b": 96.7329545455,
+    "Dot Ball %": 11.7897727273,
+    "Boundary %": 79.4034090909
+  },
+  "Rashid Khan": {
+    "Strike Rate": 93.1818181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 64.6306818182,
+    "Sixes/10b": 94.1761363636,
+    "Dot Ball %": 44.8863636364,
+    "Boundary %": 90.7670454545
+  },
+  "Rasikh Salam": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.7642045455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 60.8664772727,
+    "Boundary %": 47.65625
+  },
+  "Ravi Bishnoi": {
+    "Strike Rate": 17.0454545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 22.65625,
+    "Sixes/10b": 49.0767045455,
+    "Dot Ball %": 88.2102272727,
+    "Boundary %": 22.65625
+  },
+  "S Anirudha": {
+    "Strike Rate": 53.8352272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.0625,
+    "Sixes/10b": 76.1363636364,
+    "Dot Ball %": 51.4204545455,
+    "Boundary %": 52.0596590909
+  },
+  "S Aravind": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 73.8636363636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 49.5738636364,
+    "Boundary %": 44.2471590909
+  },
+  "S Badree": {
+    "Strike Rate": 11.9318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 80.9659090909,
+    "Boundary %": 8.59375
+  },
+  "S Badrinath": {
+    "Strike Rate": 58.9488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.9886363636,
+    "Sixes/10b": 42.8977272727,
+    "Dot Ball %": 32.5284090909,
+    "Boundary %": 60.5113636364
+  },
+  "S Chanderpaul": {
+    "Strike Rate": 23.5795454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.4261363636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 85.3693181818,
+    "Boundary %": 45.6676136364
+  },
+  "S Dhawan": {
+    "Strike Rate": 67.8977272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.3693181818,
+    "Sixes/10b": 47.8693181818,
+    "Dot Ball %": 28.5511363636,
+    "Boundary %": 72.0170454545
+  },
+  "S Dube": {
+    "Strike Rate": 82.6704545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.4659090909,
+    "Sixes/10b": 89.6306818182,
+    "Dot Ball %": 22.7272727273,
+    "Boundary %": 72.1590909091
+  },
+  "S Gopal": {
+    "Strike Rate": 44.6022727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.3948863636,
+    "Sixes/10b": 35.3693181818,
+    "Dot Ball %": 37.9971590909,
+    "Boundary %": 45.8806818182
+  },
+  "S Kaul": {
+    "Strike Rate": 12.9261363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 22.3011363636,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 88.3522727273,
+    "Boundary %": 17.7556818182
+  },
+  "S Kaushik": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "S Ladda": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "S Lamichhane": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "S Nadeem": {
+    "Strike Rate": 8.3806818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.3068181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 89.6306818182,
+    "Boundary %": 17.3295454545
+  },
+  "S Narwal": {
+    "Strike Rate": 72.4431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 97.1590909091,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 39.84375,
+    "Boundary %": 89.3465909091
+  },
+  "S Rana": {
+    "Strike Rate": 51.5625,
+    "Average": 50.0710227273,
+    "Fours/10b": 67.8977272727,
+    "Sixes/10b": 36.0795454545,
+    "Dot Ball %": 35.0852272727,
+    "Boundary %": 46.2357954545
+  },
+  "S Randiv": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.2471590909,
+    "Boundary %": 8.59375
+  },
+  "S Sohal": {
+    "Strike Rate": 61.3636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 67.1875,
+    "Sixes/10b": 76.2784090909,
+    "Dot Ball %": 73.7215909091,
+    "Boundary %": 71.6619318182
+  },
+  "S Sreesanth": {
+    "Strike Rate": 14.7727272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.9914772727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.7443181818,
+    "Boundary %": 37.3579545455
+  },
+  "S Sriram": {
+    "Strike Rate": 26.2784090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.1107954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 60.4403409091,
+    "Boundary %": 28.6931818182
+  },
+  "S Tyagi": {
+    "Strike Rate": 22.9403409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 2.5568181818,
+    "Boundary %": 8.59375
+  },
+  "S Vidyut": {
+    "Strike Rate": 70.9517045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 95.3125,
+    "Sixes/10b": 45.4545454545,
+    "Dot Ball %": 61.5767045455,
+    "Boundary %": 90.1278409091
+  },
+  "SA Abbott": {
+    "Strike Rate": 66.6903409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 29.2613636364,
+    "Sixes/10b": 95.5965909091,
+    "Dot Ball %": 80.46875,
+    "Boundary %": 71.1647727273
+  },
+  "SA Asnodkar": {
+    "Strike Rate": 65.0568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.4715909091,
+    "Sixes/10b": 48.1534090909,
+    "Dot Ball %": 57.6704545455,
+    "Boundary %": 81.8892045455
+  },
+  "SA Yadav": {
+    "Strike Rate": 89.2045454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.7670454545,
+    "Sixes/10b": 75.4261363636,
+    "Dot Ball %": 12.0738636364,
+    "Boundary %": 90.4829545455
+  },
+  "SB Bangar": {
+    "Strike Rate": 27.6988636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 20.7386363636,
+    "Sixes/10b": 70.6676136364,
+    "Dot Ball %": 62.5,
+    "Boundary %": 25.4261363636
+  },
+  "SB Dubey": {
+    "Strike Rate": 94.8863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.8551136364,
+    "Sixes/10b": 96.3068181818,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 92.3295454545
+  },
+  "SB Jakati": {
+    "Strike Rate": 33.3806818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.2982954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 34.0909090909,
+    "Boundary %": 35.0142045455
+  },
+  "SB Joshi": {
+    "Strike Rate": 6.8892045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 87.6420454545,
+    "Boundary %": 8.59375
+  },
+  "SB Styris": {
+    "Strike Rate": 36.3636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.2755681818,
+    "Sixes/10b": 42.7556818182,
+    "Dot Ball %": 32.2443181818,
+    "Boundary %": 34.6590909091
+  },
+  "SB Wagh": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "SC Ganguly": {
+    "Strike Rate": 42.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.6420454545,
+    "Sixes/10b": 50.9943181818,
+    "Dot Ball %": 66.0511363636,
+    "Boundary %": 53.4090909091
+  },
+  "SD Chitnis": {
+    "Strike Rate": 48.5795454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.6193181818,
+    "Sixes/10b": 42.4715909091,
+    "Dot Ball %": 39.4886363636,
+    "Boundary %": 50.4261363636
+  },
+  "SD Hope": {
+    "Strike Rate": 89.9147727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 57.5284090909,
+    "Sixes/10b": 91.7613636364,
+    "Dot Ball %": 25.4261363636,
+    "Boundary %": 85.3693181818
+  },
+  "SD Lad": {
+    "Strike Rate": 58.5227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 85.6534090909,
+    "Dot Ball %": 86.5056818182,
+    "Boundary %": 64.9857954545
+  },
+  "SE Bond": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "SE Marsh": {
+    "Strike Rate": 75.2840909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.9375,
+    "Sixes/10b": 59.9431818182,
+    "Dot Ball %": 26.5625,
+    "Boundary %": 78.2670454545
+  },
+  "SE Rutherford": {
+    "Strike Rate": 73.0113636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 43.8920454545,
+    "Sixes/10b": 88.4943181818,
+    "Dot Ball %": 42.1875,
+    "Boundary %": 70.3125
+  },
+  "SH Johnson": {
+    "Strike Rate": 21.4488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 79.1193181818,
+    "Boundary %": 32.2443181818
+  },
+  "SJ Srivastava": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 1.9176136364,
+    "Boundary %": 8.59375
+  },
+  "SK Raina": {
+    "Strike Rate": 78.2670454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.2840909091,
+    "Sixes/10b": 67.4715909091,
+    "Dot Ball %": 12.6420454545,
+    "Boundary %": 73.2954545455
+  },
+  "SK Rasheed": {
+    "Strike Rate": 47.3011363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 83.3096590909,
+    "Sixes/10b": 49.4318181818,
+    "Dot Ball %": 81.5340909091,
+    "Boundary %": 70.0284090909
+  },
+  "SK Trivedi": {
+    "Strike Rate": 18.8920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 26.8465909091,
+    "Sixes/10b": 38.8494318182,
+    "Dot Ball %": 85.5113636364,
+    "Boundary %": 24.7159090909
+  },
+  "SK Warne": {
+    "Strike Rate": 31.25,
+    "Average": 50.0710227273,
+    "Fours/10b": 34.0909090909,
+    "Sixes/10b": 47.2301136364,
+    "Dot Ball %": 61.9318181818,
+    "Boundary %": 32.5284090909
+  },
+  "SL Malinga": {
+    "Strike Rate": 28.2670454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.9659090909,
+    "Sixes/10b": 66.9744318182,
+    "Dot Ball %": 82.1022727273,
+    "Boundary %": 37.7840909091
+  },
+  "SM Curran": {
+    "Strike Rate": 76.4204545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 69.6022727273,
+    "Sixes/10b": 73.4375,
+    "Dot Ball %": 20.0284090909,
+    "Boundary %": 70.4545454545
+  },
+  "SM Harwood": {
+    "Strike Rate": 16.1221590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "SM Katich": {
+    "Strike Rate": 71.3068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.375,
+    "Sixes/10b": 61.9318181818,
+    "Dot Ball %": 51.1363636364,
+    "Boundary %": 76.9886363636
+  },
+  "SM Pollock": {
+    "Strike Rate": 71.7329545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.8551136364,
+    "Sixes/10b": 82.5284090909,
+    "Dot Ball %": 35.7954545455,
+    "Boundary %": 75.0
+  },
+  "SMSM Senanayake": {
+    "Strike Rate": 14.5596590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 59.7301136364,
+    "Boundary %": 8.59375
+  },
+  "SN Khan": {
+    "Strike Rate": 73.4375,
+    "Average": 50.0710227273,
+    "Fours/10b": 84.9431818182,
+    "Sixes/10b": 49.8579545455,
+    "Dot Ball %": 12.5,
+    "Boundary %": 72.5852272727
+  },
+  "SN Thakur": {
+    "Strike Rate": 80.3977272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.8465909091,
+    "Sixes/10b": 73.0113636364,
+    "Dot Ball %": 22.3011363636,
+    "Boundary %": 76.8465909091
+  },
+  "SO Hetmyer": {
+    "Strike Rate": 88.4943181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.9886363636,
+    "Sixes/10b": 89.9147727273,
+    "Dot Ball %": 17.7556818182,
+    "Boundary %": 77.6988636364
+  },
+  "SP Fleming": {
+    "Strike Rate": 57.3863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 92.2585227273,
+    "Sixes/10b": 39.5596590909,
+    "Dot Ball %": 73.0113636364,
+    "Boundary %": 76.2073863636
+  },
+  "SP Goswami": {
+    "Strike Rate": 34.8011363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.3522727273,
+    "Sixes/10b": 34.6590909091,
+    "Dot Ball %": 58.8068181818,
+    "Boundary %": 42.0454545455
+  },
+  "SP Jackson": {
+    "Strike Rate": 48.0113636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 49.3607954545,
+    "Sixes/10b": 39.5596590909,
+    "Dot Ball %": 11.3636363636,
+    "Boundary %": 37.3579545455
+  },
+  "SP Narine": {
+    "Strike Rate": 94.0340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.4659090909,
+    "Sixes/10b": 93.3238636364,
+    "Dot Ball %": 63.4943181818,
+    "Boundary %": 96.1647727273
+  },
+  "SPD Smith": {
+    "Strike Rate": 69.1761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 71.0227272727,
+    "Sixes/10b": 49.5738636364,
+    "Dot Ball %": 6.5340909091,
+    "Boundary %": 59.0909090909
+  },
+  "SR Tendulkar": {
+    "Strike Rate": 56.5340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.6363636364,
+    "Sixes/10b": 37.7840909091,
+    "Dot Ball %": 43.75,
+    "Boundary %": 68.3238636364
+  },
+  "SR Watson": {
+    "Strike Rate": 80.9659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.5340909091,
+    "Sixes/10b": 80.9659090909,
+    "Dot Ball %": 45.8806818182,
+    "Boundary %": 86.3636363636
+  },
+  "SS Cottrell": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "SS Iyer": {
+    "Strike Rate": 73.6505681818,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.0511363636,
+    "Sixes/10b": 71.1647727273,
+    "Dot Ball %": 17.3295454545,
+    "Boundary %": 68.8920454545
+  },
+  "SS Prabhudessai": {
+    "Strike Rate": 52.4147727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.8068181818,
+    "Sixes/10b": 53.5511363636,
+    "Dot Ball %": 65.4829545455,
+    "Boundary %": 52.2727272727
+  },
+  "SS Shaikh": {
+    "Strike Rate": 28.5511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 81.8892045455,
+    "Boundary %": 58.4517045455
+  },
+  "SS Tiwary": {
+    "Strike Rate": 58.8068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 48.1534090909,
+    "Sixes/10b": 58.0965909091,
+    "Dot Ball %": 19.6022727273,
+    "Boundary %": 46.7329545455
+  },
+  "ST Jayasuriya": {
+    "Strike Rate": 80.6818181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 88.9204545455,
+    "Sixes/10b": 82.3863636364,
+    "Dot Ball %": 74.2897727273,
+    "Boundary %": 91.3352272727
+  },
+  "STR Binny": {
+    "Strike Rate": 70.5965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 56.3920454545,
+    "Sixes/10b": 68.9630681818,
+    "Dot Ball %": 25.0,
+    "Boundary %": 59.5170454545
+  },
+  "SV Samson": {
+    "Strike Rate": 81.6761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.7613636364,
+    "Sixes/10b": 78.6931818182,
+    "Dot Ball %": 16.1931818182,
+    "Boundary %": 74.2897727273
+  },
+  "SW Billings": {
+    "Strike Rate": 70.7386363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 60.7954545455,
+    "Sixes/10b": 69.6022727273,
+    "Dot Ball %": 23.9346590909,
+    "Boundary %": 63.0681818182
+  },
+  "SW Tait": {
+    "Strike Rate": 30.1136363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 24.0056818182,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 42.4715909091,
+    "Boundary %": 27.9119318182
+  },
+  "SZ Mulani": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "Sachin Baby": {
+    "Strike Rate": 60.2272727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.2784090909,
+    "Sixes/10b": 59.5170454545,
+    "Dot Ball %": 36.3636363636,
+    "Boundary %": 50.1420454545
+  },
+  "Salman Butt": {
+    "Strike Rate": 53.5511363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.1761363636,
+    "Sixes/10b": 35.6534090909,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 80.8238636364
+  },
+  "Sameer Rizvi": {
+    "Strike Rate": 83.0965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 74.1477272727,
+    "Sixes/10b": 83.1676136364,
+    "Dot Ball %": 32.8125,
+    "Boundary %": 84.1619318182
+  },
+  "Sandeep Sharma": {
+    "Strike Rate": 23.7215909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 27.2727272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 45.5965909091,
+    "Boundary %": 21.1647727273
+  },
+  "Sanvir Singh": {
+    "Strike Rate": 55.6818181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 52.6278409091,
+    "Sixes/10b": 64.4176136364,
+    "Dot Ball %": 37.6420454545,
+    "Boundary %": 54.9715909091
+  },
+  "Saurav Chauhan": {
+    "Strike Rate": 54.1193181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.3806818182,
+    "Sixes/10b": 78.2670454545,
+    "Dot Ball %": 48.7215909091,
+    "Boundary %": 47.65625
+  },
+  "Sediqullah Atal": {
+    "Strike Rate": 83.8068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 97.1590909091,
+    "Dot Ball %": 20.8806818182,
+    "Boundary %": 47.65625
+  },
+  "Shahbaz Ahmed": {
+    "Strike Rate": 57.6704545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 32.5284090909,
+    "Sixes/10b": 71.8039772727,
+    "Dot Ball %": 27.8409090909,
+    "Boundary %": 41.9034090909
+  },
+  "Shahid Afridi": {
+    "Strike Rate": 98.1534090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.4829545455,
+    "Sixes/10b": 97.7272727273,
+    "Dot Ball %": 47.0880681818,
+    "Boundary %": 97.0170454545
+  },
+  "Shakib Al Hasan": {
+    "Strike Rate": 63.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.0397727273,
+    "Sixes/10b": 50.8522727273,
+    "Dot Ball %": 15.4829545455,
+    "Boundary %": 57.5284090909
+  },
+  "Shashank Singh": {
+    "Strike Rate": 93.4659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 68.1818181818,
+    "Sixes/10b": 88.7784090909,
+    "Dot Ball %": 4.9715909091,
+    "Boundary %": 85.7954545455
+  },
+  "Shivam Mavi": {
+    "Strike Rate": 29.6875,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.6477272727,
+    "Sixes/10b": 52.5568181818,
+    "Dot Ball %": 79.9715909091,
+    "Boundary %": 36.4346590909
+  },
+  "Shivam Sharma": {
+    "Strike Rate": 96.9460227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.3607954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 99.1477272727
+  },
+  "Shivam Singh": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 7.6704545455,
+    "Boundary %": 8.59375
+  },
+  "Shoaib Ahmed": {
+    "Strike Rate": 3.90625,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 95.9517045455,
+    "Boundary %": 8.59375
+  },
+  "Shoaib Akhtar": {
+    "Strike Rate": 4.7585227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 94.2471590909,
+    "Boundary %": 8.59375
+  },
+  "Shoaib Malik": {
+    "Strike Rate": 47.4431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.7897727273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 6.1079545455,
+    "Boundary %": 35.9375
+  },
+  "Shubman Gill": {
+    "Strike Rate": 81.3920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.3920454545,
+    "Sixes/10b": 61.0795454545,
+    "Dot Ball %": 6.6761363636,
+    "Boundary %": 73.8636363636
+  },
+  "Sikandar Raza": {
+    "Strike Rate": 72.3011363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.875,
+    "Sixes/10b": 75.1420454545,
+    "Dot Ball %": 38.9204545455,
+    "Boundary %": 56.6761363636
+  },
+  "Simarjeet Singh": {
+    "Strike Rate": 17.7556818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 58.0255681818,
+    "Boundary %": 8.59375
+  },
+  "Sohail Tanvir": {
+    "Strike Rate": 59.2329545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 58.1676136364,
+    "Sixes/10b": 51.2784090909,
+    "Dot Ball %": 13.28125,
+    "Boundary %": 49.8579545455
+  },
+  "Sumit Kumar": {
+    "Strike Rate": 19.1761363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 41.40625,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 93.6079545455,
+    "Boundary %": 42.5426136364
+  },
+  "Sunny Gupta": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "Sunny Singh": {
+    "Strike Rate": 85.5113636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.2357954545,
+    "Sixes/10b": 51.2784090909,
+    "Dot Ball %": 27.6988636364,
+    "Boundary %": 92.8977272727
+  },
+  "Suryansh Shedge": {
+    "Strike Rate": 14.1335227273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "Swapnil Singh": {
+    "Strike Rate": 51.2784090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 35.2982954545,
+    "Sixes/10b": 80.46875,
+    "Dot Ball %": 55.2556818182,
+    "Boundary %": 50.4261363636
+  },
+  "T Banton": {
+    "Strike Rate": 26.4204545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 26.2073863636,
+    "Sixes/10b": 64.4176136364,
+    "Dot Ball %": 84.0909090909,
+    "Boundary %": 32.2443181818
+  },
+  "T Henderson": {
+    "Strike Rate": 18.75,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 78.2670454545,
+    "Dot Ball %": 92.1875,
+    "Boundary %": 23.7215909091
+  },
+  "T Kohler-Cadmore": {
+    "Strike Rate": 30.3267045455,
+    "Average": 50.0710227273,
+    "Fours/10b": 81.25,
+    "Sixes/10b": 40.1988636364,
+    "Dot Ball %": 85.8664772727,
+    "Boundary %": 61.7897727273
+  },
+  "T Kohli": {
+    "Strike Rate": 12.6420454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 68.9630681818,
+    "Dot Ball %": 92.6136363636,
+    "Boundary %": 20.8806818182
+  },
+  "T Natarajan": {
+    "Strike Rate": 15.0568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 34.0909090909,
+    "Boundary %": 8.59375
+  },
+  "T Shamsi": {
+    "Strike Rate": 10.3693181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "T Stubbs": {
+    "Strike Rate": 95.4545454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.3721590909,
+    "Sixes/10b": 89.2045454545,
+    "Dot Ball %": 2.4147727273,
+    "Boundary %": 88.3522727273
+  },
+  "T Taibu": {
+    "Strike Rate": 62.6420454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.3721590909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 10.0852272727,
+    "Boundary %": 42.5426136364
+  },
+  "T Thushara": {
+    "Strike Rate": 15.4829545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 76.2073863636,
+    "Boundary %": 8.59375
+  },
+  "TA Boult": {
+    "Strike Rate": 37.3579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 30.7528409091,
+    "Sixes/10b": 52.9829545455,
+    "Dot Ball %": 57.1732954545,
+    "Boundary %": 33.2386363636
+  },
+  "TD Paine": {
+    "Strike Rate": 5.9659090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 89.2045454545,
+    "Boundary %": 8.59375
+  },
+  "TG Southee": {
+    "Strike Rate": 51.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.7073863636,
+    "Sixes/10b": 54.8295454545,
+    "Dot Ball %": 47.5852272727,
+    "Boundary %": 40.4119318182
+  },
+  "TH David": {
+    "Strike Rate": 95.5965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 62.5,
+    "Sixes/10b": 96.1647727273,
+    "Dot Ball %": 11.5056818182,
+    "Boundary %": 91.9034090909
+  },
+  "TK Curran": {
+    "Strike Rate": 60.6534090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 53.9772727273,
+    "Sixes/10b": 47.65625,
+    "Dot Ball %": 9.2329545455,
+    "Boundary %": 44.8863636364
+  },
+  "TL Seifert": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 91.3352272727,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 82.5284090909,
+    "Boundary %": 64.9857954545
+  },
+  "TL Suman": {
+    "Strike Rate": 57.8125,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.1136363636,
+    "Sixes/10b": 63.4943181818,
+    "Dot Ball %": 46.5909090909,
+    "Boundary %": 55.6818181818
+  },
+  "TM Dilshan": {
+    "Strike Rate": 50.7102272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.8125,
+    "Sixes/10b": 43.1818181818,
+    "Dot Ball %": 59.2329545455,
+    "Boundary %": 66.7613636364
+  },
+  "TM Head": {
+    "Strike Rate": 95.7386363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.6022727273,
+    "Sixes/10b": 86.7897727273,
+    "Dot Ball %": 15.625,
+    "Boundary %": 95.5965909091
+  },
+  "TM Srivastava": {
+    "Strike Rate": 21.4488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 54.2613636364,
+    "Boundary %": 8.59375
+  },
+  "TR Birt": {
+    "Strike Rate": 72.1590909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 90.625,
+    "Sixes/10b": 51.7045454545,
+    "Dot Ball %": 55.3977272727,
+    "Boundary %": 81.1079545455
+  },
+  "TS Mills": {
+    "Strike Rate": 13.3522727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 83.1676136364,
+    "Dot Ball %": 95.1704545455,
+    "Boundary %": 25.7102272727
+  },
+  "TU Deshpande": {
+    "Strike Rate": 59.7301136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 46.0227272727,
+    "Sixes/10b": 61.4346590909,
+    "Dot Ball %": 40.5539772727,
+    "Boundary %": 47.65625
+  },
+  "Tanush Kotian": {
+    "Strike Rate": 22.9403409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 55.6107954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 81.1789772727,
+    "Boundary %": 33.7357954545
+  },
+  "Tilak Varma": {
+    "Strike Rate": 84.2329545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 63.0681818182,
+    "Sixes/10b": 82.2443181818,
+    "Dot Ball %": 9.8011363636,
+    "Boundary %": 74.0056818182
+  },
+  "U Kaul": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "UA Birla": {
+    "Strike Rate": 8.9488636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.0085227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 93.75,
+    "Boundary %": 25.0
+  },
+  "UBT Chand": {
+    "Strike Rate": 34.9431818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 61.6477272727,
+    "Sixes/10b": 48.7215909091,
+    "Dot Ball %": 78.4090909091,
+    "Boundary %": 50.8522727273
+  },
+  "UT Khawaja": {
+    "Strike Rate": 65.9090909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 82.4573863636,
+    "Sixes/10b": 48.4375,
+    "Dot Ball %": 37.7840909091,
+    "Boundary %": 69.3181818182
+  },
+  "UT Yadav": {
+    "Strike Rate": 37.2159090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 40.3409090909,
+    "Sixes/10b": 62.2159090909,
+    "Dot Ball %": 72.7272727273,
+    "Boundary %": 44.0340909091
+  },
+  "Umar Gul": {
+    "Strike Rate": 99.4318181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 28.0539772727,
+    "Sixes/10b": 99.8579545455,
+    "Dot Ball %": 41.6193181818,
+    "Boundary %": 98.2954545455
+  },
+  "Umran Malik": {
+    "Strike Rate": 88.6363636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.3806818182,
+    "Sixes/10b": 97.1590909091,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 81.8892045455
+  },
+  "Urvil Patel": {
+    "Strike Rate": 99.21875,
+    "Average": 50.0710227273,
+    "Fours/10b": 89.2045454545,
+    "Sixes/10b": 99.1477272727,
+    "Dot Ball %": 24.7159090909,
+    "Boundary %": 98.5795454545
+  },
+  "V Kohli": {
+    "Strike Rate": 74.5738636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.7272727273,
+    "Sixes/10b": 63.0681818182,
+    "Dot Ball %": 10.6534090909,
+    "Boundary %": 68.4659090909
+  },
+  "V Nigam": {
+    "Strike Rate": 97.5852272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 96.5909090909,
+    "Sixes/10b": 92.0454545455,
+    "Dot Ball %": 17.6136363636,
+    "Boundary %": 97.5852272727
+  },
+  "V Pratap Singh": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "V Sehwag": {
+    "Strike Rate": 91.3352272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 95.1704545455,
+    "Sixes/10b": 75.9943181818,
+    "Dot Ball %": 34.9431818182,
+    "Boundary %": 94.0340909091
+  },
+  "V Shankar": {
+    "Strike Rate": 70.1704545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 51.0653409091,
+    "Sixes/10b": 67.3295454545,
+    "Dot Ball %": 9.6590909091,
+    "Boundary %": 55.8238636364
+  },
+  "V Suryavanshi": {
+    "Strike Rate": 98.8636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 85.0852272727,
+    "Sixes/10b": 99.5738636364,
+    "Dot Ball %": 38.3522727273,
+    "Boundary %": 98.7215909091
+  },
+  "V Viyaskanth": {
+    "Strike Rate": 85.9375,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 0.8522727273,
+    "Boundary %": 8.59375
+  },
+  "VG Arora": {
+    "Strike Rate": 6.3920454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 91.9034090909,
+    "Boundary %": 8.59375
+  },
+  "VH Zol": {
+    "Strike Rate": 52.5568181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 72.3721590909,
+    "Sixes/10b": 57.1022727273,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 64.9857954545
+  },
+  "VR Aaron": {
+    "Strike Rate": 18.6079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 22.0880681818,
+    "Sixes/10b": 47.2301136364,
+    "Dot Ball %": 83.9488636364,
+    "Boundary %": 21.7329545455
+  },
+  "VR Iyer": {
+    "Strike Rate": 78.4090909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 76.5625,
+    "Sixes/10b": 76.7045454545,
+    "Dot Ball %": 35.6534090909,
+    "Boundary %": 78.4090909091
+  },
+  "VRV Singh": {
+    "Strike Rate": 79.6164772727,
+    "Average": 50.0710227273,
+    "Fours/10b": 99.3607954545,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 99.1477272727
+  },
+  "VS Malik": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 87.2159090909,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 44.3181818182,
+    "Boundary %": 58.4517045455
+  },
+  "VS Yeligati": {
+    "Strike Rate": 40.1278409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 8.59375
+  },
+  "VVS Laxman": {
+    "Strike Rate": 44.7443181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 75.5681818182,
+    "Sixes/10b": 40.0568181818,
+    "Dot Ball %": 53.5511363636,
+    "Boundary %": 56.8181818182
+  },
+  "VY Mahesh": {
+    "Strike Rate": 12.3579545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 77.6988636364,
+    "Boundary %": 8.59375
+  },
+  "Vijaykumar Vyshak": {
+    "Strike Rate": 48.8636363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 85.6534090909,
+    "Dot Ball %": 25.9943181818,
+    "Boundary %": 27.9119318182
+  },
+  "Virat Singh": {
+    "Strike Rate": 13.7784090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 24.0056818182,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 77.9829545455,
+    "Boundary %": 19.1051136364
+  },
+  "Vishnu Vinod": {
+    "Strike Rate": 35.6534090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 27.6278409091,
+    "Sixes/10b": 70.6676136364,
+    "Dot Ball %": 57.5284090909,
+    "Boundary %": 36.4346590909
+  },
+  "Vivrant Sharma": {
+    "Strike Rate": 86.7897727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 95.4545454545,
+    "Sixes/10b": 60.15625,
+    "Dot Ball %": 18.0397727273,
+    "Boundary %": 92.7556818182
+  },
+  "W Jaffer": {
+    "Strike Rate": 42.1875,
+    "Average": 50.0710227273,
+    "Fours/10b": 66.3352272727,
+    "Sixes/10b": 43.6789772727,
+    "Dot Ball %": 65.625,
+    "Boundary %": 51.4204545455
+  },
+  "WA Mota": {
+    "Strike Rate": 22.2301136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 21.7329545455,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 31.4630681818,
+    "Boundary %": 17.6136363636
+  },
+  "WD Parnell": {
+    "Strike Rate": 23.4375,
+    "Average": 50.0710227273,
+    "Fours/10b": 26.4204545455,
+    "Sixes/10b": 35.6534090909,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 22.4431818182
+  },
+  "WG Jacks": {
+    "Strike Rate": 93.3238636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 77.6988636364,
+    "Sixes/10b": 91.3352272727,
+    "Dot Ball %": 19.0340909091,
+    "Boundary %": 92.4715909091
+  },
+  "WP Saha": {
+    "Strike Rate": 68.3238636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 78.7642045455,
+    "Sixes/10b": 54.1193181818,
+    "Dot Ball %": 31.6761363636,
+    "Boundary %": 69.1761363636
+  },
+  "WPUJC Vaas": {
+    "Strike Rate": 51.4204545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 22.0880681818,
+    "Sixes/10b": 60.5113636364,
+    "Dot Ball %": 6.3920454545,
+    "Boundary %": 25.2840909091
+  },
+  "Washington Sundar": {
+    "Strike Rate": 63.7784090909,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.2329545455,
+    "Sixes/10b": 56.0369318182,
+    "Dot Ball %": 20.1704545455,
+    "Boundary %": 54.4034090909
+  },
+  "X Thalaivan Sargunam": {
+    "Strike Rate": 14.5596590909,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 76.6335227273,
+    "Boundary %": 8.59375
+  },
+  "XC Bartlett": {
+    "Strike Rate": 22.0170454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 36.0085227273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 58.0255681818,
+    "Boundary %": 25.0
+  },
+  "Y Gnaneswara Rao": {
+    "Strike Rate": 46.3778409091,
+    "Average": 50.0710227273,
+    "Fours/10b": 93.75,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 71.1647727273
+  },
+  "Y Nagar": {
+    "Strike Rate": 45.4545454545,
+    "Average": 50.0710227273,
+    "Fours/10b": 38.3522727273,
+    "Sixes/10b": 51.5625,
+    "Dot Ball %": 40.9090909091,
+    "Boundary %": 37.9261363636
+  },
+  "Y Prithvi Raj": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "Y Venugopal Rao": {
+    "Strike Rate": 56.1079545455,
+    "Average": 50.0710227273,
+    "Fours/10b": 50.8522727273,
+    "Sixes/10b": 62.3579545455,
+    "Dot Ball %": 37.9971590909,
+    "Boundary %": 51.5625
+  },
+  "YA Abdulla": {
+    "Strike Rate": 1.9176136364,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 98.2244318182,
+    "Boundary %": 8.59375
+  },
+  "YBK Jaiswal": {
+    "Strike Rate": 91.4772727273,
+    "Average": 50.0710227273,
+    "Fours/10b": 94.4602272727,
+    "Sixes/10b": 79.1193181818,
+    "Dot Ball %": 37.3579545455,
+    "Boundary %": 94.3181818182
+  },
+  "YK Pathan": {
+    "Strike Rate": 84.8011363636,
+    "Average": 50.0710227273,
+    "Fours/10b": 70.5965909091,
+    "Sixes/10b": 82.6704545455,
+    "Dot Ball %": 20.3125,
+    "Boundary %": 78.5511363636
+  },
+  "YS Chahal": {
+    "Strike Rate": 7.8125,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 88.4943181818,
+    "Boundary %": 8.59375
+  },
+  "YV Dhull": {
+    "Strike Rate": 19.4602272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 25.8522727273,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 47.0880681818,
+    "Boundary %": 20.3125
+  },
+  "YV Takawale": {
+    "Strike Rate": 45.3125,
+    "Average": 50.0710227273,
+    "Fours/10b": 86.6477272727,
+    "Sixes/10b": 38.8494318182,
+    "Dot Ball %": 79.4034090909,
+    "Boundary %": 68.1818181818
+  },
+  "Yash Dayal": {
+    "Strike Rate": 8.5227272727,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 90.625,
+    "Boundary %": 8.59375
+  },
+  "Yashpal Singh": {
+    "Strike Rate": 19.8863636364,
+    "Average": 50.0710227273,
+    "Fours/10b": 39.2755681818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 83.3806818182,
+    "Boundary %": 26.9886363636
+  },
+  "Younis Khan": {
+    "Strike Rate": 8.0965909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 10.3693181818,
+    "Sixes/10b": 16.7613636364,
+    "Dot Ball %": 81.8892045455,
+    "Boundary %": 8.59375
+  },
+  "Yudhvir Singh": {
+    "Strike Rate": 83.8068181818,
+    "Average": 50.0710227273,
+    "Fours/10b": 33.3806818182,
+    "Sixes/10b": 97.1590909091,
+    "Dot Ball %": 69.3892045455,
+    "Boundary %": 81.8892045455
+  },
+  "Yuvraj Singh": {
+    "Strike Rate": 69.0340909091,
+    "Average": 50.0710227273,
+    "Fours/10b": 59.5170454545,
+    "Sixes/10b": 81.6761363636,
+    "Dot Ball %": 50.5681818182,
+    "Boundary %": 70.7386363636
+  },
+  "Z Khan": {
+    "Strike Rate": 27.1306818182,
+    "Average": 50.0710227273,
+    "Fours/10b": 42.1875,
+    "Sixes/10b": 37.6420454545,
+    "Dot Ball %": 75.7102272727,
+    "Boundary %": 32.9545454545
+  }
+}
